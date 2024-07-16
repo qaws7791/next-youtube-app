@@ -1,0 +1,2702 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "7xjW2No4OJ6c6TNmk1z_ZZnTgJs",
+    "nextPageToken": "EAAajgFQVDpDRElpRUVZek1FTkROMFpGUkRoR1FqSXpNVVlvQVVpWS01V281NmlIQTFBQldrVWlRMmxLVVZSRVVtMVNNVTVLVFZoQ1JWTnROREpoYkdoVVdERlNNbGd3TkRWUmFtaGhUVVZvVlZWc1drdFNWRUowUldkM1NUVlBkbFIwUVZsUmQwOVBVelJuUlNJ",
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "zjiAbRjWcQbU7T3l1ObXOxOYjQg",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5FNTEwODk2MUVERkJGMjFC",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "NewJeans (뉴진스) ‘Supernatural’ Official MV (Part.1)",
+          "description": "NewJeans (뉴진스) ‘Supernatural’ Official MV (Part.1)\n\nProducer: MIN HEE JIN\nMusic Video Director: Shin Dongle\n\n© 2024 ADOR. All Rights Reserved.\n\nConnect with NewJeans\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL FACEBOOK https://www.facebook.com/official.newjeans\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_Supernatural #NewJeans_RightNow \n#NewJeans_is_Everywhere\n#ADOR #어도어",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZncbtRo7RXs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZncbtRo7RXs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZncbtRo7RXs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZncbtRo7RXs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZncbtRo7RXs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ZncbtRo7RXs"
+          },
+          "videoOwnerChannelTitle": "HYBE LABELS",
+          "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+        },
+        "contentDetails": {
+          "videoId": "ZncbtRo7RXs",
+          "videoPublishedAt": "2024-06-21T04:00:01Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "wqUXzTEYnTaOpCWNu3wRn9TJFW4",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS4xQzlCNEJERUIyNTNCQjVB",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "aespa 에스파 'Supernova' MV",
+          "description": "aespa's 1st album \"Armageddon\" is out!\nListen and download on your favorite platform: https://aespa.lnk.to/Armageddon\n\n👁 'Armageddon' MV https://youtu.be/nFYwcndNuOY\n🔗 https://aespa.com\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #Supernova #Armageddon\n#에스파 #æspa\n#aespaSupernova #aespaArmageddon \naespa 에스파 'Supernova' MV ℗ SM Entertainment",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/phuiiNCxRMg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/phuiiNCxRMg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/phuiiNCxRMg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/phuiiNCxRMg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/phuiiNCxRMg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "phuiiNCxRMg"
+          },
+          "videoOwnerChannelTitle": "SMTOWN",
+          "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
+        },
+        "contentDetails": {
+          "videoId": "phuiiNCxRMg",
+          "videoPublishedAt": "2024-05-13T09:00:41Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "yrN5RNENSw9vKISSR8-4WOm6Jz8",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS45M0JBRjYxRUNEQTJBNkRD",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "[MV] 이영지 - Small girl feat. 도경수 (D.O.)",
+          "description": "모든 형태의 사랑에 존경을.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/11iZcYbq_is/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/11iZcYbq_is/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/11iZcYbq_is/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/11iZcYbq_is/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/11iZcYbq_is/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "11iZcYbq_is"
+          },
+          "videoOwnerChannelTitle": "이영지",
+          "videoOwnerChannelId": "UC3dJKwKxhR1Boz56EsI5PYQ"
+        },
+        "contentDetails": {
+          "videoId": "11iZcYbq_is",
+          "videoPublishedAt": "2024-06-21T09:00:04Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "6iBGb2WtDaLdFt904xvY6TWSH4w",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS40MEMxQTk5RTZEQzVDQTI2",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "NewJeans (뉴진스) 'How Sweet' Official MV",
+          "description": "NewJeans (뉴진스) 'How Sweet' Official MV\n\nProducer: MIN HEE JIN\nMusic Video Director: Heewon Shin\n\n© 2024 ADOR. All Rights Reserved.\n\nConnect with NewJeans\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL FACEBOOK https://www.facebook.com/official.newjeans\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#HowSweet #NewJeans_HowSweet\n#NewJeans_is_Everywhere\n#광고 #CokeStudio #RealMagic\n#ADOR #어도어",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q3K0TOvTOno/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q3K0TOvTOno/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q3K0TOvTOno/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Q3K0TOvTOno/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Q3K0TOvTOno/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Q3K0TOvTOno"
+          },
+          "videoOwnerChannelTitle": "HYBE LABELS",
+          "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+        },
+        "contentDetails": {
+          "videoId": "Q3K0TOvTOno",
+          "videoPublishedAt": "2024-05-24T07:00:00Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "CYqhwM3M_y8lRLw_3xo_CjEqBoI",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5CMDVBQUQ0OUY0NEQ3QkMy",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "QWER '고민중독' Official MV",
+          "description": "QWER '고민중독' Official MV\nⓒ 2024 Tamago production. All Rights Reserved.\n\n#QWER #고민중독 #MANITO\n\n[QWER Official SNS]\nOFFICIAL YOUTUBE▷ https://www.youtube.com/@QWER_Band_official\nOFFICIAL INSTAGRAM▷  https://www.instagram.com/qwerband_official\nOFFICIAL WEVERSE▷ https://weverse.io/qwer\nOFFICIAL X▷ https://X.com/official_QWER\nOFFICIAL TIKTOK▷ https://www.tiktok.com/@qwerband_official\nOFFICIAL FANCAFE▷ https://cafe.naver.com/eggkim",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ImuWa3SJulY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ImuWa3SJulY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ImuWa3SJulY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ImuWa3SJulY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ImuWa3SJulY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ImuWa3SJulY"
+          },
+          "videoOwnerChannelTitle": "QWER",
+          "videoOwnerChannelId": "UCgD0APk2x9uBlLM0UsmhQjw"
+        },
+        "contentDetails": {
+          "videoId": "ImuWa3SJulY",
+          "videoPublishedAt": "2024-04-01T09:00:22Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "8sMjZ_AQ_QwnqBulOa-9g6kRDRU",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS40REY1QjlCMzc0Qjg4RTI1",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "KISS OF LIFE (키스오브라이프) 'Sticky' Official Music Video",
+          "description": "KISS OF LIFE (키스오브라이프) 'Sticky' Official Music Video\n#KISSOFLIFE #키스오브라이프 #Sticky\n-\nKISS OF LIFE (키스오브라이프) Digital Single Album [Sticky] is OUT NOW!\nㅤ\n🎧 Melon https://buly.kr/3u13W0Z\n🎧 Bugs https://buly.kr/9t8orlJ\n🎧 Genie https://buly.kr/A43ZqaY\n🎧 VIBE https://buly.kr/4maqQ7P\n🎧 FLO https://buly.kr/1n1xkFs\n🎧 Spotify https://buly.kr/5fAdKCq\n🎧 Apple Music https://buly.kr/DlHURxQ\n-\n[KISS OF LIFE Official Channel]\nYouTube : https://www.youtube.com/channel/UCvEEeBssb4XxIfWWIB8IjMw\nTwitter : https://twitter.com/KISSOFLIFE_S2\nInstagram : https://www.instagram.com/kissoflife_s2\nFacebook : https://www.facebook.com/KISSOFLIFEofficial\nTikTok : https://www.tiktok.com/@kissoflife_official\nOfficial WebSite : https://kissoflife-official.com/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IajeQM00yfE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IajeQM00yfE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IajeQM00yfE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IajeQM00yfE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IajeQM00yfE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 5,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "IajeQM00yfE"
+          },
+          "videoOwnerChannelTitle": "KISS OF LIFE",
+          "videoOwnerChannelId": "UCvEEeBssb4XxIfWWIB8IjMw"
+        },
+        "contentDetails": {
+          "videoId": "IajeQM00yfE",
+          "videoPublishedAt": "2024-06-30T15:00:15Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "PGDL2f0mYFE1wc04gYXF-NG2ovw",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5BOEQyMTY5QUJFN0YxNEMz",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "aespa 에스파 'Armageddon' MV",
+          "description": "aespa's 1st album \"Armageddon\" is out!\nListen and download on your favorite platform: https://aespa.lnk.to/Armageddon\n\n🌟 'Supernova' MV https://youtu.be/phuiiNCxRMg\n🔗 https://aespa.com\n\n[Tracklist]\n01 Supernova\n02 Armageddon\n03 Set The Tone\n04 Mine\n05 Licorice\n06 BAHAMA\n07 Long Chat (#♥)\n08 Prologue\n09 Live My Life\n10 목소리 (Melody)\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #Armageddon #에스파 #æspa #aespaArmageddon \naespa 에스파 'Armageddon' MV ℗ SM Entertainment",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nFYwcndNuOY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nFYwcndNuOY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nFYwcndNuOY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nFYwcndNuOY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nFYwcndNuOY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 6,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "nFYwcndNuOY"
+          },
+          "videoOwnerChannelTitle": "SMTOWN",
+          "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
+        },
+        "contentDetails": {
+          "videoId": "nFYwcndNuOY",
+          "videoPublishedAt": "2024-05-27T09:06:53Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "TUL_vtnNNe_jJqe4rdBp-6IWlYA",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS4xRkY4NjcxRTNGNTI5MzRB",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "ILLIT (아일릿) ‘Magnetic’ Official MV",
+          "description": "Creative Director: Serian Heu\nMusic Video Director: DQM\nSUMMER MOON with ILLIT\n\nⓒ BELIFT LAB Inc. All Rights Reserved\n\nConnect with ILLIT\n\nILLIT Weverse: https://www.weverse.io/illit\nOfficial Youtube: https://www.youtube.com/@ILLIT_official\nOfficial Twitter: https://x.com/ILLIT_official\nMember Twitter: https://x.com/ILLIT_twt\nTikTok: https://www.tiktok.com/@illit_official\nInstagram: https://www.instagram.com/ILLIT_official\nFacebook: https://www.facebook.com/ILLIT.beliftlab\nWeibo: https://www.weibo.com/n/ILLIT_BELIFTLAB\nBILIBILI: https://space.bilibili.com/3546608109095338\nJapan Twitter: https://x.com/ILLITjpofficial\n\n#아일릿 #ILLIT #SUPER_REAL_ME #Magnetic",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Vk5-c_v4gMU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Vk5-c_v4gMU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Vk5-c_v4gMU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Vk5-c_v4gMU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Vk5-c_v4gMU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 7,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Vk5-c_v4gMU"
+          },
+          "videoOwnerChannelTitle": "HYBE LABELS",
+          "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+        },
+        "contentDetails": {
+          "videoId": "Vk5-c_v4gMU",
+          "videoPublishedAt": "2024-03-25T08:58:08Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "cHGNrguRyCmD4ptgYTV6vaR2Q3I",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5GMkRFQ0Y4Mjg3QTZFMDE0",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "NewJeans (뉴진스) 'Bubble Gum' Official MV",
+          "description": "NewJeans (뉴진스) 'Bubble Gum' Official MV\n\nProducer: MIN HEE JIN\nMusic Video Director: Youngeum Lee\n\n© 2024 ADOR. All Rights Reserved.\n\nConnect with NewJeans\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL FACEBOOK https://www.facebook.com/official.newjeans\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스 \n#NewJeans_BubbleGum #NewJeans_HowSweet\n#NewJeans_is_Everywhere\n#ADOR #어도어",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ft70sAYrFyY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ft70sAYrFyY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ft70sAYrFyY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ft70sAYrFyY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ft70sAYrFyY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 8,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ft70sAYrFyY"
+          },
+          "videoOwnerChannelTitle": "HYBE LABELS",
+          "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+        },
+        "contentDetails": {
+          "videoId": "ft70sAYrFyY",
+          "videoPublishedAt": "2024-04-26T15:00:01Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "YIQlWYW5y0Jj2sWurElsUEgWpMs",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5FMEY5N0I3MEJENTk0RTA5",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "IVE 아이브 '해야 (HEYA)' MV",
+          "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \nPRE-SAVE IVE SWITCH : https://www.ive-starship.com/\n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/07EzMbVH3QE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/07EzMbVH3QE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/07EzMbVH3QE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/07EzMbVH3QE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/07EzMbVH3QE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 9,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "07EzMbVH3QE"
+          },
+          "videoOwnerChannelTitle": "STARSHIP",
+          "videoOwnerChannelId": "UCYDmx2Sfpnaxg488yBpZIGg"
+        },
+        "contentDetails": {
+          "videoId": "07EzMbVH3QE",
+          "videoPublishedAt": "2024-04-29T09:00:46Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "dFUdGu02HAtmsMxnPs5njObLVP8",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5BODhDNERCN0JBMEM5Q0E2",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까(Fate)' LIVE CLIP",
+          "description": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까(Fate)' LIVE CLIP\n\n[🎧] [2]\n▫Melon https://kko.to/REQ2P8KSY3\n▫https://ingrv.es/Two\n\n(G)I-DLE Official YouTube: http://www.youtube.com/@official_g_i_dle\n(G)I-DLE Official X: https://twitter.com/G_I_DLE\n(G)I-DLE Official Facebook: https://facebook.com/G.I.DLE.CUBE\n(G)I-DLE Official Instagram: https://instagram.com/official_g_i_dle\n(G)I-DLE Official Weibo: http://weibo.com/cubegidle\n(G)I-DLE Official Weverse: https://weverse.io/gidle\n\n#여자아이들 #GIDLE #Two",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ATK7gAaZTOM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ATK7gAaZTOM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ATK7gAaZTOM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ATK7gAaZTOM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ATK7gAaZTOM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 10,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ATK7gAaZTOM"
+          },
+          "videoOwnerChannelTitle": "(G)I-DLE (여자)아이들 (Official YouTube Channel)",
+          "videoOwnerChannelId": "UCritGVo7pLJLUS8wEu32vow"
+        },
+        "contentDetails": {
+          "videoId": "ATK7gAaZTOM",
+          "videoPublishedAt": "2024-03-13T12:00:13Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "AaZ-FyrORrvGBzDUsuQK1CTWB38",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS40Q0UwQkJGRUI0OTZDMjFB",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Official Music Video",
+          "description": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Official Music Video\n\n[🎧] [I SWAY]\n▫Melon https://kko.to/Rio1soyW1h\n▫https://ingrv.es/ISWAY\n\nComposed by 소연, Pop Time, Daily, Likey\nLyrics by 소연\nArranged by Pop Time, Daily, Likey, 소연\n\n좀 미친 소리 같지만 난 네게 반했어\n(어어우워 어어우워)\n자꾸 눈으로 욕 하지마 더 네게 빠졌어\n(어어우워 어어우워)\n\n영화보다 멋진 드라마틱 Romantic show\n나 처음 본 순간 완전 영원한 반쪽인걸\n또 못 본 척 못 들은 척 넘어가려 하지 어림없어\n차 떠나가라 소리칠 거야\n\nI love you baby\n야 나 좀 봐줘 Lady\n더 Hit the 클락션\nHon hon hon hon hon honk\n또 Hit the 클락션\nHon hon hon hon hon honk\nHey hop in sweetie boy\n\n우 우아우~ 우 우아우~\n우 우아우~\nHonk honk hit the 클락션\n우 우아우~ 우 우아우~\n우 우아우~\nHonk honk hit the 클락션\n\n오픈카 타고 드라이브는 어때?\nWannabe by Spice Girls 틀고 Okay?\n야 딱 봐도 그 여자는 불건전해\n그만 힐끔대고 벨트나 매 옆에\n\nPretty hot stuff hot stuff beautiful\nBut don’t worry \nI don’t want a boy toy\n잠깐 갓길에 멈춰 깜빡이도 안 켜고 덮쳐\n\n힙합보다 멋진 발라드틱 Romantic show\n너 처음 본 순간 완전 딱 천생연분인걸\n또 못 본 척 못 들은 척 넘어가려 하지 어림없어\n차 떠나가라 소리칠 거야\n\nI love you baby\n야 나 좀 봐줘 Lady\n더 Hit the 클락션\nHon hon hon hon hon honk\n또 Hit the 클락션\nHon hon hon hon hon honk\nHey hop in sweetie boy\n\nHey I love you\nI want to do an interview\nAh yeah 난 너의\n완벽한 The true lover \n\nHey I love you\nI want to do an interview\nAh yeah 난 너의\n완벽한 The true lover\n\nI love you baby\n나 좀 봐줘 Lady\nHit the 클락션\nHon hon hon hon hon honk\n또 Hit the 클락션\nHon hon hon hon hon honk\nHey hop in sweetie boy\n\n우 우아우~ 우 우아우~\n우 우아우~\nHonk honk hit the 클락션\n우 우아우~ 우 우아우~\n우 우아우~\nHonk honk hit the 클락션\n\n(G)I-DLE Official YouTube: http://www.youtube.com/@official_g_i_dle\n(G)I-DLE Official X: https://x.com/G_I_DLE\n(G)I-DLE Official Facebook: https://facebook.com/G.I.DLE.CUBE\n(G)I-DLE Official Instagram: https://instagram.com/official_g_i_dle\n(G)I-DLE Official Weibo: http://weibo.com/cubegidle\n(G)I-DLE Official Weverse: https://weverse.io/gidle\n\nⓒ All Rights Reserved CUBE Entertainment Inc.\n\n#여자아이들 #GIDLE #I_SWAY",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rTKqSmX9XhQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rTKqSmX9XhQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rTKqSmX9XhQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rTKqSmX9XhQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rTKqSmX9XhQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 11,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "rTKqSmX9XhQ"
+          },
+          "videoOwnerChannelTitle": "(G)I-DLE (여자)아이들 (Official YouTube Channel)",
+          "videoOwnerChannelId": "UCritGVo7pLJLUS8wEu32vow"
+        },
+        "contentDetails": {
+          "videoId": "rTKqSmX9XhQ",
+          "videoPublishedAt": "2024-07-08T09:00:07Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "YTw4v2dgtvq7Lb-14b6bgan8feQ",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5FRTQzQzRDRUEzQ0ZBRkY3",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "Sudden Shower",
+          "description": "Provided to YouTube by Genie Music Corporation\n\nSudden Shower · ECLIPSE\n\nLovely Runner, Pt. 1 (Original Soundtrack)\n\n℗ 2024 BON FACTORY, Stone Music Entertainment\n\nReleased on: 2024-04-08\n\nLyricist: Han Sung-ho\nLyricist: Sooyoon\nComposer: Han Sung-ho\nComposer: Park Soo Suk\nComposer: Moon Kim (Room01)\nArranger: Jeong Jin-wook\n\nAuto-generated by YouTube.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ESWcsKySnNs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ESWcsKySnNs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ESWcsKySnNs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ESWcsKySnNs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ESWcsKySnNs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 12,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ESWcsKySnNs"
+          },
+          "videoOwnerChannelTitle": "ECLIPSE - Topic",
+          "videoOwnerChannelId": "UCl-neitH_7cGZodBJAgMEOw"
+        },
+        "contentDetails": {
+          "videoId": "ESWcsKySnNs",
+          "videoPublishedAt": "2024-04-08T09:01:49Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "MBsel6h-cc8flbiBKQBrFyqNUQM",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS41NEJGRDZFMzJDRkZCMDJF",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "BABYMONSTER - ‘FOREVER’ M/V",
+          "description": "FOREVER\n\nAlright ok ok ok ok\nAlright ok\nBABYMONSTER\n\nI got no worries on my mind\n난 멈추지 않아\nSo you can say goodbye\n\nI’ll fulfill my fantasy\nAnd you can watch and see\n박수나 쳐보지\n\n눈부셔\nThey say she looking flawless\nI know\n타고났지 Like this\n\nShe’s unlike unlike anybody\n여기저기 다 난리 난리\n가나다라마바 싸가지\nGotta gotta go so c’est la vie\n\nI’m dancing in the moonlight\nOoh ooh ooh ooh ooh ooh\nOoh ooh ooh ooh ay\n\nCan’t stop this feeling tonight\nWhat you waiting for\n\nBaby it was all a dream\nYou thought I was yours\n멋대로 착각하지는 마\n\nIt’s bitter it’s sweet\n저 하늘 높이\nI’m spreading my wings\nLike I’mma live\n\nForever\nLike I’mma live forever\nForever\nLike I’mma like I’mma\n\nForever\nLike I’m gonna live\nLike I’m gonna live forever\n\nOK you know what it is\n\nI’m that nice 뭘 것 같아 너와 내 차이\nPull up on me pay the price\nPut a milli on a rock my type\nNever seen it in your life\n\n예뻐 그러니까 바빠 아니 나빠 온 세상 울리는 Bad girl\nB (B) A (A) B (B) Y (Y) M (M) O (O) N\nGet money\n\nBout it bout it 발끝까지 까지\n리듬 타지 타지 기분 짜릿짜릿\nEverybody get down\nRoll up on ‘em with the motor running\nI’mma give you something\nBet you put the money in the bag\n\nI’m dancing in the moonlight\nOoh ooh ooh ooh ooh ooh\nOoh ooh ooh ooh ay\n\nCan’t stop this feeling tonight\nWhat you waiting for\n\nBaby it was all a dream\nYou thought I was yours\n멋대로 착각하지는 마\n\nIt’s bitter it’s sweet\n저 하늘 높이\nI’m spreading my wings\nLike I’mma live\n\nForever\nLike I’mma live forever\nForever\nLike I’mma like I’mma\n\nForever\nLike I’m gonna live\nLike I’m gonna live forever\n\nI can see the bright horizon\n세상이란 벽을 넘어서\nNo nothing can stop me now\n\nWe forever forever\nForever ever ever\n\nOoh ooh\nBaby it was all a dream\nYou thought I was yours\n멋대로 착각하지는 마\n\nIt’s bitter it’s sweet\n저 하늘 높이\nI’m spreading my wings\nLike I’mma live\n\nForever (Forever ever ever)\nForever (We forever forever forever ever ever)\nForever\n\nLike I’m gonna live\nLike I’m gonna live forever\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #FOREVER #MV #OUTNOW #YG\n\nAvailable @ https://BABYMONSTER.lnk.to/_FOREVER\n\nMore about BABYMONSTER @\nOfficial YouTube https://www.youtube.com/@BABYMONSTER\nOfficial Instagram https://www.instagram.com/babymonster_ygofficial\nOfficial Facebook https://www.facebook.com/BABYMONSTER.ygofficial\nOfficial Twitter https://twitter.com/YGBABYMONSTER_\nOfficial TikTok https://tiktok.com/@babymonster_yg_tiktok\nOfficial Weibo https://weibo.com/u/7811488144\nOfficial bilibili https://space.bilibili.com/3493127232948989",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eJCHKjt0MPw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eJCHKjt0MPw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eJCHKjt0MPw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eJCHKjt0MPw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eJCHKjt0MPw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 13,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "eJCHKjt0MPw"
+          },
+          "videoOwnerChannelTitle": "BABYMONSTER",
+          "videoOwnerChannelId": "UCqwUnggBBct-AY2lAdI88jQ"
+        },
+        "contentDetails": {
+          "videoId": "eJCHKjt0MPw",
+          "videoPublishedAt": "2024-06-30T15:00:08Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "h5oPkr0KXXSU_bwG-kBHOVFSp9k",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5GODZGRDhENUNFRDE4Nzkx",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "[LIVE] 이창섭 - 천상연 (선녀외전 OST) 라이브 (Full. ver)",
+          "description": "[LIVE] 이창섭 - 천상연 (선녀외전 OST) 라이브 (Full. ver)\n\n피왕오왕에 리왕까지 섭렵한 이창섭\n\n#비투비 #BTOB #이창섭 #피왕오왕 #예지앞사💙 #선녀외전 #천상연 #노래방 #노래추천\n\n\n------------------------------------------------------------------------------\n\nTOON STUDIO\n\nYoutube ▶https://www.youtube.com/channel/UCve0b6qhfxTpKeqzZ4u0MjQ?sub_confirmation=1\nFacebook ▶https://www.facebook.com/TOON-STUDIO-113508993765749",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fQ84rvbfa08/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fQ84rvbfa08/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fQ84rvbfa08/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fQ84rvbfa08/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fQ84rvbfa08/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 14,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "fQ84rvbfa08"
+          },
+          "videoOwnerChannelTitle": "TOON STUDIO",
+          "videoOwnerChannelId": "UCve0b6qhfxTpKeqzZ4u0MjQ"
+        },
+        "contentDetails": {
+          "videoId": "fQ84rvbfa08",
+          "videoPublishedAt": "2024-02-21T09:00:27Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "jMuNvcQQg88JHD5kZJVuEz48U6g",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS4yOTc5RTFGNTBFREIzMzdG",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "TWS (투어스) '내가 S면 넌 나의 N이 되어줘' Official MV",
+          "description": "TWS (투어스) '내가 S면 넌 나의 N이 되어줘' Official MV\n\n☀️ TWS : 2nd Mini Album 'SUMMER BEAT!'\nhttps://lnk.to/SUMMER_BEAT\n\n#TWS #투어스 #247WithUs\n#SUMMER_BEAT\n#내가S면넌나의N이되어줘\n#If_Im_S_Can_You_Be_My_N #TWS_SN\n\nCredit:\nProducer : Han Sungsoo\n \nHead of Production : Kim Daun\n \nVisual Creative Coordinating : Yang Dongmin\nStyle Directing : Kim Woojeong\nBrand Experience Design : Kim Bunhong\n \nA&R : Kim Yukyeong, Cho Sumin B, Yi Hyojin, Ahn Singyu, Kim Jiyoon, Amanda Cho\n \nPerformance Directing : Ryu Jaehee, Lee Haesu, Jeon Jongha, Yang Chihwan\n \nArtist PM & Protocol & Operation : Ahn Solyang, Shin Doyun, Kim Hyejin, Park Yuri, Hong Ahyun, Lee Woojin, Cho Sungje, Hwang Yumi\n \nProduction : DIGIPEDI\n\nMusic Video Director : Seong Wonmo \n \nExecutive Producer : Lee Moonyoung\nProducer : Yu Yena\nAssistant Director : Lee Sanghyun , Lee Jungeun\n \nCo - Production : Isai Inc.\nExecutive Producer : Hiroto Hashimoto\nProducer : Yusuke Kuribayashi\nProduction Manager : Miku Kohara, Takuro Mikami\nAssistant Director : Ryo Osada, Masakazu Otsuki\n \nDP : Eumko\nFocus Puller : Lee Youngwoo, Park Hyunjun\n1st A.C  : Rika Ito\n2nd A.C: Lee Eunil\nDIT :  Ko Yuntae\n3rd A.C : Lee Donghyun\nCamera Assistant : Jang Gyuseong\nData Manager : Riko Onuma\n \nGrip  : Yukihiro Inoue, Koichi Yamagata, Mana Mizuno / Lee SangJun, Kim Sanghyub, Han Yenok, Kim Jaeman, Park Junghyuk\n \nTechno Crane : Servicevision Korea\nHead Operator : Choi Taehyun\nCrane Operator : Woo Jisoo\nCrane Tech : Lee Beomki\nAssist : Im Woojin\n \nLighting Director : Wataru Sugimura / DS Light l Choi Doosoo\n1st Lighting Assistant : Toshifumi Mizoe / Jung Yujin, Yeom Banseog\nLighting Assistants : Yuki Iwai, yo4kix, Shun Mate, Chisato Nishimoto, Chinatsu Takeda, Tsukasa, Motoya, Daisuke Sakai, Isao Amano / Park Jinhyung, Kim Seonwoo, Lee Kieun, Kim Seunghyun\n \nProduction Designer  : Kengo Inoue / A:We l Shin Gwiock, Dong Kyengryen\nAssistants :Ryunosuke Takahashi, Hina Koharada, Masaaki Ohira, Hidekuni Tamura, Hiroshi Ryan Ogishima, Sae Miyazawa, Yuka Wakabayashi, Yoshikazu Ishikawa, Takumi Haga  / Bang Sumin, Choi Eunju, Hwang Jaeha, Park Jiyeon\n \nSpecial Effects : Yukihisa Aida, Makoto Ogawa, Naoki Ito, Masami Nakajyo, Makoto Fujimoto /\nMin Chang-gi, Lee Min hyeon, Ko Doohyun, Park Gunwoo, Lee Inyeol\n \nLocation Coordinator : GROOVE l Kokichi Sato, Kana Hayashi, Masa Odagiri / Golem l Soushi Miyajima, Ippo Okazaki\nInterpreter / Production Manager : Runa\nInterpreter : Lina, Kim Haunchul\n \nProduction Assistants : Yuki Saka, Taro Akino, Shin Ota, Honoka Sakaino, Kanato Kihara, Junna Oikawa, Kako Takanashi, Ran Kosone,Riko Hishikawa / Hanjisoo, Jang Mini, Lee Kyeongbin, Kwon Minseong\n \nCasting : Miyu Omae (SKALY), Hiroki Tokumura, Moeri Noda, Yasuyoshi Suzuki (Root Casting), Toshikatsu Hisanaga(Sports Magic Casting)\nLocation : Kokusaiaeromarine, Tachikawa-Sozosha, Futtsu Fureai Citizen Park\nSpecial cooperation : Chiba University\n \nPost Production : DIGIPEDI\nPost Supervisor : Moon Seokho (DIGIPEDI)\nColorlist : Naotaka Takahashi\nColorlist Assistants : Shota Watanabe\n \nVisual Effects by 257 Studios\nVFX Supervisor : Kim Giuk\nVFX Production Manager : Yi Jina\n3D Supervisor : Lee Kyoryeol\n2D Supervisor : Lee Nayoung\n3D Artist : Park Sungryoung, Yoon Jihyang, Bae Hansong, Jeong Jikhan, Je Yumi, Kang Miyeon\n2D Artist : Oh Yumin, Lee Jiwoo, An Hawon, Yuchi Tang, Lee Jaesung, Chu Hyebeen\n \nIllustrator : Park Yeram\n\n\nConnect with TWS\n\nOfficial Homepage : https://www.pledis.co.kr/artist/detail/TWS\nOfficial YouTube : https://www.youtube.com/@TWS_PLEDIS\nOfficial Twitter : https://twitter.com/TWS_PLEDIS\nOfficial Instagram : https://www.instagram.com/tws_pledis\nOfficial TikTok : http://www.tiktok.com/@tws_pledis\nOfficial Facebook : https://www.facebook.com/TWS.PLEDIS\nOfficial Weverse : https://weverse.io/tws\n\nⓒ PLEDIS Entertainment. All Rights Reserved",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NRgZuuwD2WY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NRgZuuwD2WY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NRgZuuwD2WY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NRgZuuwD2WY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NRgZuuwD2WY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 15,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "NRgZuuwD2WY"
+          },
+          "videoOwnerChannelTitle": "HYBE LABELS",
+          "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+        },
+        "contentDetails": {
+          "videoId": "NRgZuuwD2WY",
+          "videoPublishedAt": "2024-06-24T08:58:08Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "dm7cbHPp6nAGLBCyyejEC2uRD9U",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS44MUEwMzIwQjZDRTE2NzMx",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "Red Velvet 레드벨벳 'Cosmic' MV",
+          "description": "Red Velvet's new album \"Cosmic\" is out!\nListen and download on your favorite platform: https://RedVelvet.lnk.to/Cosmic \n\n[Tracklist]\n01 Cosmic\n02 Sunflower\n03 Last Drop\n04 Love Arcade\n05 Bubble\n06 Night Drive\n\nRed Velvet Official\nhttps://www.youtube.com/redvelvet\nhttps://www.facebook.com/RedVelvet\nhttps://www.instagram.com/redvelvet.smtown\nhttps://www.tiktok.com/@redvelvet_smtown\nhttps://twitter.com/RVsmtown\n\n#RedVelvet #레드벨벳 #Cosmic\n#RedVelvet_Cosmic\nRed Velvet 레드벨벳 'Cosmic' MV ℗ SM Entertainment",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FyG21rXCxlY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FyG21rXCxlY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FyG21rXCxlY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FyG21rXCxlY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FyG21rXCxlY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 16,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "FyG21rXCxlY"
+          },
+          "videoOwnerChannelTitle": "SMTOWN",
+          "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
+        },
+        "contentDetails": {
+          "videoId": "FyG21rXCxlY",
+          "videoPublishedAt": "2024-06-24T09:44:02Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "jCU3b4x27R-79OrbQRAg2CxmeII",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS4zMzlBMjg5QzMxMUEyMTE4",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "TWS (투어스) '첫 만남은 계획대로 되지 않아' Official MV",
+          "description": "TWS (투어스) '첫 만남은 계획대로 되지 않아' Official MV\n\n#TWS #투어스 #247WithUs\n#Sparkling_Blue\n#첫만남은계획대로되지않아\n#plot_twist\n\nCredit:\nProducer : Han Sungsoo\n\nCreative Director : Lee Hyunju\n\nVisual Creative : Kim Woojeong, Yang Dongmin\nA&R : Cho Sumin B, Kim Yukyeong, Yi Hyojin, Ahn Singyu, Amanda Cho, Kim Jiyoon, Cho Sumin A\nPerformance Directing: Ryu Jaehee, Shin Minkyung, Lee Haesu, Jeon Jongha\nArtist PM & Protocol : Ahn Solyang, Shin Doyun, Kang Miju, Hong Ahyun, Cho Sungje, Kwon Wooyoung, Hwang Yumi\n\nProduction - Undermood Film\nDirector - Oh Jiwon\nProducer - Kim Joowon (Creaple)\nAssistant Director - Choi Yaejun, Kim Eunchong\nLine Producer - Kim Donghyun (Creaple)\nProduction Assistant\nJeong Seung Hun, Choi Yong Gi, Cha Chang Hyun, Lee Lui Jun, Lee Sang Ha,\nKim Daniel, Kim Sanghyuk, Lee Hyo Bin, Kim Jong Han, Lee Kang Kyu\n\nD.O.P - Lee Jinhyuk\nFocus Puller - Kim Jihwan, Hong Kang\n2nd A.C - Jeong Gunwoo\nDIT - Kim Jungwoon, Jeon Juhwan, Choi Dongwon\n3rd A.C - Kim Minho, Kim Yoojin, Shin Kwonwu\n\nGaffer - Oh Jonghwan\n1st - Kim Hyung Gyoon\n2nd - Son Jeong Hee, Lee Kyung Hwan, Jeong Hee Wook\n3rd - Yoon Jae ung, Kim Seung Min, Heo Hyun Young,\nAhn Beom Yoon, Yum Seung Hyuk, Kim Jae Hyung\n\nGrip-1 - Park Janghee\nGrip-2 - Kim Minsung\n\nJimmy Jip (Day1&2) - Ji Youn Gu\n1st - You Jin Ho\n2nd - Bae Eun Tack\n3rd - You Seung Jun\n\nJimmy Jip (Day 2&3) - Lee Dongjin\n1st - Lee Jiyong\n2nd - Yoo Jenghyun\n3rd - Jung Sungeum\n\nArt Director - Yun Insol\nArt Team - Park Suyeon, Ryu Seulah, Kim Woohyun, Choi Ji Hye, Jang Min I\n\nLocation Manager\nChoi Kwang Su, Min Su hyun, Kim Seong Ki, Jo Yu Mi, Lee Kong Min\n\nSpecial Effect Director - Jung Dae Ho (KMFX)\nSpecial Effect Team  - Kim Jung Gyu, Kim Young Hun, Kim In Sik, Kim Jae Rim, Bae Jung Ha\n\nSupporting Actors - Clover Agency\n\n2D / Cleaning - Kwon Arang\n\nVFX (1)\n3D VFX Production - AEFX\n3D VFX Supervisor - Jeon Jiho, Kim Youngwoong\n3D VFX Producer - Spearman30\n3D VFX - Jeon Jiho, Kim Youngwoong, Kim Hyunjin\n2D VFX - Lee Myounghoon\n\nVFX(2)\n3D VFX Studio - WHaM\n3D VFX Supervisor - Ohzeon\n3D VFX Producer - Ahn Sohyun, Jo Songwoo\n3D VFX Artist - Kim Doyeon, Lee Hyunjun, Jeon Jiwon, Kim Yumin\nMatch Move - Park Junseon\n\nIntro/Outro Sound Design & Background Music - Igwan\n\nStoryboard - Park Youseung\n\n\nConnect with TWS\n\nOfficial Homepage : https://www.pledis.co.kr/artist/detail/TWS\nOfficial YouTube : https://www.youtube.com/@TWS_PLEDIS\nOfficial Twitter : https://twitter.com/TWS_PLEDIS\nOfficial Instagram : https://www.instagram.com/tws_pledis\nOfficial TikTok : http://www.tiktok.com/@tws_pledis\nOfficial Facebook : https://www.facebook.com/TWS.PLEDIS\nOfficial Weverse : https://weverse.io/tws\n\nⓒ PLEDIS Entertainment. All Rights Reserved",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hVAc1Vf2ITU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hVAc1Vf2ITU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hVAc1Vf2ITU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hVAc1Vf2ITU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hVAc1Vf2ITU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 17,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "hVAc1Vf2ITU"
+          },
+          "videoOwnerChannelTitle": "HYBE LABELS",
+          "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+        },
+        "contentDetails": {
+          "videoId": "hVAc1Vf2ITU",
+          "videoPublishedAt": "2024-01-22T08:58:12Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "a6JRblCY2pm3TLjk0zr-fIe3x6g",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5EQkQzM0VFMjlBMEQ3NDE4",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "ZICO (지코) ‘SPOT! (feat. JENNIE)’ Official MV",
+          "description": "ZICO 11th Digital Single ‘SPOT! (feat. JENNIE)’\n\n🎧http://zico.lnk.to/SPOT \n\n#ZICO #지코 #JENNIE #제니 #SPOT #스팟\n      \nCredits:\n\nDIRECTOR | YONGSEOK CHOI (LUMPENS) \nCO-DIRECTOR | RAN RO (LUMPENS)\n\nPRODUCTION HOUSE | NEWYEAR     \nEXECUTIVE PRODUCER | YEONJIN KIM\nPRODUCER | HYUNSIK BANG\nPRODUCTION ASSISTANT | WONSUNG YOON, DONGHUN LEE, DOHOON LEE, WONHWA YOON, BOM LEE, TAEIN JUNG, INSEOP SIM, SUNGYONG KIM, YEBIN GO\n               \nDOP | HYUNWOO NAM (MOTHER)      \nB CAMERA OPERATOR | EUNKI KIM\n2ND AC | YOUNGSEO PARK\nDIT | MINJOO YOU\n3RD AC | SANGPHILL KIM\n      \nJIMMY JIB OPERATOR |  YOUNGU JI\nJIMMY JIB ASSISTANT | JINHO YOU, EANTACK BAE, SEUNGJUN YOU\n      \nGAFFER | HYUNSUK SONG\nCREW | JUNGHYUN CHOI, JUNHUI MIN, JAEHYEON IM, YEJIN LEE, JUNSEO LEE, YUJUN NAM, ILHO GONG, DONGCHAN JIN\n      \nPRODUCTION DESIGNER | MU:E\nART DIRECTOR | MU:E\nASST. ART DIRECTOR | JAWON KIM, YESOL KIM (@MU:E) \nART TEAM MANAGER | ILHO HEO (@MU:E)\n      \nMODELS | CLADEN, JACK, ARNOLD, NOAH, ELISABETH, ARON, LIZ, LEI, DANIEL, TIANA, TEO \nDANCERS | B.B TRIPPIN / FOREIGN / UPTOWN FAMILY \n      \nLOCATION | ZONE SYSTEM\nLOCATION MANAGER | MINHO KIM, SEOKSOO SANG, DONGHO CHAE\n      \nDI | LUCID COLOUR\nCOLORIST | WONSEOK KO\nDI CREW | IMGOO JO, DAIN KIM, SUHYEON BAE, BORAM YEOM, HYEWON HONG \nDI PRODUCER | MINJI NAM\nMANAGER | YUJIN SEO \n     \n\nConnect with ZICO :\n@ ZICO Official\nYouTube🔗 https://www.youtube.com/@ZICOOFFICIAL \nTwitter🔗 https://twitter.com/zico_koz \nInstagram🔗 https://www.instagram.com/woozico0914 \nTikTok🔗 https://www.tiktok.com/@kozico0914 \nWeibo🔗  https://weibo.com/KOZico0914\n\n@ KOZ Entertainment\nWebsite🔗 https://kozofficial.com\nYouTube🔗 https://www.youtube.com/@KOZENTOFFICIAL \nTwitter🔗 https://twitter.com/KOZ_Entofficial \nInstagram🔗 https://www.instagram.com/koz_entofficial/ \n\nⓒ KOZ Entertainment. All Rights Reserved.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xfqBQ2XhBCg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xfqBQ2XhBCg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xfqBQ2XhBCg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xfqBQ2XhBCg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xfqBQ2XhBCg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 18,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xfqBQ2XhBCg"
+          },
+          "videoOwnerChannelTitle": "HYBE LABELS",
+          "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+        },
+        "contentDetails": {
+          "videoId": "xfqBQ2XhBCg",
+          "videoPublishedAt": "2024-04-26T09:00:08Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "xqthiQCoQFK_cwS8JST_QhAlZ1U",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS41OUJENzAwNjczQUEwNDdD",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "DAY6(데이식스) \"Welcome to the Show\" M/V",
+          "description": "DAY6(데이식스) \"Welcome to the Show\" M/V\r\n\nListen to DAY6 \"Welcome to the Show\" \nhttps://day6.lnk.to/fourever\n\nDAY6 Official YouTube: http://www.youtube.com/c/DAY6Official\nDAY6 Official Facebook: http://www.facebook.com/DAY6Official\nDAY6 Official Twitter: http://www.twitter.com/DAY6Official\nDAY6 FANS App Store : http://bit.ly/48OILIW\nDAY6 FANS Google Play : http://bit.ly/48tBxKE\nDAY6 Official Homepage: http://DAY6.jype.com\n\nCopyrights 2024 ⓒ JYP Entertainment. All Rights Reserved.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RowlrvmyFEk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RowlrvmyFEk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RowlrvmyFEk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RowlrvmyFEk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RowlrvmyFEk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 19,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "RowlrvmyFEk"
+          },
+          "videoOwnerChannelTitle": "JYP Entertainment",
+          "videoOwnerChannelId": "UCaO6TYtlC8U5ttz62hTrZgg"
+        },
+        "contentDetails": {
+          "videoId": "RowlrvmyFEk",
+          "videoPublishedAt": "2024-03-18T09:00:07Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "xECrHYNBaE-ATkfSwCucCmPpXSk",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS45N0UzNjA5NkE5RTk3M0ND",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "RIIZE 라이즈 'Boom Boom Bass' MV",
+          "description": "RIIZE's 1st mini album \"RIIZING\" is out! \nListen and download on your favorite platform: https://RIIZE.lnk.to/RIIZING\n\n[Tracklist]\n01 Boom Boom Bass\n02 Siren\n03 Impossible\n04 9 Days\n05 Honestly\n06 One Kiss\n07 Talk Saxy\n08 Love 119\n\n🎶 'Impossible' MV https://youtu.be/Ey53EQhkLY8\n🎤 '9 Days' MV https://youtu.be/YVwNxYhgCdg\n🧡 'One Kiss' MV https://youtu.be/46dquyaoe_c \n\nSubscribe to RIIZE Official YouTube Channel!\nhttps://www.youtube.com/@RIIZE_official?sub_confirmation=1 \n\nRIIZE official   \nhttps://youtube.com/@RIIZE_official    \nhttps://www.riizeofficial.com    \nhttps://www.instagram.com/riize_official    \nhttps://twitter.com/riize_official  \nhttps://www.facebook.com/RIIZE.official   \nhttps://www.tiktok.com/@riize_official   \nhttps://weibo.com/riize  \n\n#RIIZE #라이즈 #BoomBoomBass\n#RIIZE_BoomBoomBass\n#RIIZING #RISEandREALIZE \nRIIZE 라이즈 'Boom Boom Bass' MV ℗© 2024 SM Entertainment, under exclusive license to RCA Records and UNIVERSAL MUSIC LLC",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/78lNnCitcBM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/78lNnCitcBM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/78lNnCitcBM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/78lNnCitcBM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/78lNnCitcBM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 20,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "78lNnCitcBM"
+          },
+          "videoOwnerChannelTitle": "SMTOWN",
+          "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
+        },
+        "contentDetails": {
+          "videoId": "78lNnCitcBM",
+          "videoPublishedAt": "2024-06-17T08:59:06Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "j6t1ndOTa0GaTfjjHuFUnowKXsM",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5DMjM5NkJGNjYxMTgyOTFB",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "NewJeans (뉴진스) 'Right Now' Official MV",
+          "description": "NewJeans (뉴진스) 'Right Now' Official MV\n\nProducer: MIN HEE JIN\nMusic Video Director: Youngeum Lee\n\nTHE POWERPUFF GIRLS and all related characters and elements © & ™ Cartoon Network. (s24) © 2024 ADOR. All Rights Reserved.\nNewJeans X MURAKAMI ©2024 Takashi Murakami/Kaikai Kiki Co., Ltd. All Rights Reserved. / ADOR Co., Ltd. All Rights Reserved.\n\nConnect with NewJeans\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL FACEBOOK https://www.facebook.com/official.newjeans\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_RightNow #NewJeans_Supernatural\n#NewJeans_is_Everywhere\n#ADOR #어도어",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m6pTbEz4w3o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m6pTbEz4w3o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m6pTbEz4w3o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/m6pTbEz4w3o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/m6pTbEz4w3o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 21,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "m6pTbEz4w3o"
+          },
+          "videoOwnerChannelTitle": "HYBE LABELS",
+          "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+        },
+        "contentDetails": {
+          "videoId": "m6pTbEz4w3o",
+          "videoPublishedAt": "2024-06-16T15:00:00Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "I2uy0DruJYZXw6ONtbkDcCEZKSA",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS40MDIzQzk2MkVCQ0IzQzhD",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "[MV] LEE MU JIN(이무진) _ Episode(에피소드)",
+          "description": "[MV] LEE MU JIN(이무진) _ Episode(에피소드)\n\n\n\nK-POP Wonderland, 1theK\n\nK-POP의 모든 즐거움을 1theK(원더케이)에서 만나보세요! :)\nWelcome to the official YouTube channel of K-POP Wonderland, 1theK\n\n\"1theK Live\" Subscribe 👉 https://www.youtube.com/@1theKLive\n\n[Notice] 1theK YouTube is also an official channel for the MV, and music shows will count the views from this channel too.\n[공지] 1theK YouTube는 MV를 유통하는 공식 채널로, 1theK에 업로드된 MV 조회수 또한 음악방송 순위에 반영됩니다.\n\n#NEWRELEASE#MV#1theK#원더케이\n\n1theK YT : https://www.youtube.com/1theK\n1theK FB  : http://www.facebook.com/1theK\n1theK TW : https://twitter.com/1theK\n1theK TikTok : https://vt.tiktok.com/2mSMBS\n1theK Originals YT : https://www.youtube.com/1theKOriginals\n1theK Live YT : https://www.youtube.com/@1theKLive\n1theK Live Instagram : https://www.instagram.com/1thek_live/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gH1rVdXUlpo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gH1rVdXUlpo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gH1rVdXUlpo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gH1rVdXUlpo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gH1rVdXUlpo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 22,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "gH1rVdXUlpo"
+          },
+          "videoOwnerChannelTitle": "1theK (원더케이)",
+          "videoOwnerChannelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw"
+        },
+        "contentDetails": {
+          "videoId": "gH1rVdXUlpo",
+          "videoPublishedAt": "2023-12-13T09:00:34Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "7jvle1xtMc7sWQTK2mjVHAS3ZWs",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS41MjMxODY2NEFBMDNCMjZF",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "LISA - ROCKSTAR (Official Music Video)",
+          "description": "Stream LISA's single 'Rockstar' now: http://LISA.lnk.to/ROCKSTAR\n\nFollow LISA:\nhttp://www.instagram.com/lalalalisa_m\nhttps://www.tiktok.com/@lalalalisa_m\nhttps://www.youtube.com/@lalalalisa_m?sub_confirmation=1\n\nFollow WeAreLLOUD:\nhttp://www.instagram.com/wearelloud\nhttps://www.tiktok.com/@wearelloud\nhttp://www.facebook.com/wearelloud\nhttps://www.youtube.com/@wearelloud/videos?sub_confirmation=1\n\n\nCredits:\nArtist - Lisa @lalalalisa_m\nLabel – Lloud Co. @wearelloud / RCA Records @rcarecords\nCommissioner / Producer: Camille Yorrick\nArtist Management - LLoud - @wearelloud\n \nDirector: Henry Scholfield @hscholfield\n \nProduction Company: Academy Films @academyfilms\nMD / Producer: Medb Riordan @medbriordan\nProduction Manager: Lexi Kiddo @lexi.kiddo\nProduction Coordinator: Mali Davies @malmalade\nMusic Video Rep: Nicole O’ Connell @hart_represents\n \nDOP: Mauro Chiarello @mauro.chiarello\n1st AD: Oleksii Smoliar @oleksiismoliar\n \nChoreography: Sean Bankhead @itsbankhead\nAssistant Choreographer: Tacir Roberson @tacir.r\n \nService Company Thailand - TAPROD @taprodgroup\nService Company EP - Louis Ditapichai\nService Company EP - Christophe Guyot\nProducer - Air Thidatip @thidatip_air\nPM - Kornlapas Sawasdee\nProduction Coordinator: Piraporn Taechasawadinan\nProduction Assistant: Nongnapat Matrvichite\nProduction Assistant: Porntipa Somphum\nProduction Assistant: Papachaya Vongprommool\nTravel Coordinator: Narisara Sapanan\nProduction Runner: Weerasak Kala\n \nThailand 1st AD: Piyaluk Preecha\nThailand 1st AD: Nada Nakata\nThailand 2nd AD: Kawita Nunthakunatip\n \nFocus Puller: Nattapong Phamon\n1st AC: Pongthep Janphophan\n2nd AC: Aissara Kongsuk\n2nd AC: Nuttakit Tanadnangsue\nDIT: Nitiwat Jettana    \nSteadicam Operator: Watcharawit Ya-Inta\nKey Grip: Manop Pitichokjinda\nGaffer: Surachet Thongmee\nPlayback Operator: Worawit Pikulthong\n \nVFX Supervisor: Denis Reva @thatsdeemoney\n \nArt Director: Pongsan Thawatwichian @spor_1974\nAsst. Art Director: Nimit Somboonsiri\nProp Master: Nontakron Jankaw\nProp Man: Akarawat Nudnum\n \nStyling: Georgia Pendlebury @georgia.pendlebury\nLisa Personal Stylist: Nista Permpoon @nanist\nStyling Assistant: Aniello Luca Migliaro @lukawaii\nStyling Assistant: Loti Pascucci @lotipascucci\nLisa Make-up Artist: Myungsun Lee \nMake-up Assistant: Yuri Choi\nLisa Hair Stylist: Hyeyeon Jang\nHair Stylist Assistant: Jieyoon Cho\nNail Tech: Nathotsaphorn Murada\nSeamstress: Parn-Inn Punpiang\n \nCasting: Ploenpit Jermjutitham\n \nCore Dancers: Aurn, Aru, Bhee, BM, Fee, Khing, Minnie, Momile, Nida, Tangmay\n \nCast Styling: Phuwanet Phumithawon @pphumi\nCast Make Up Artist: Hathairat Srivilai (Kai)\nCast Hair Stylist: Thanon Songsil (Keng)\n \nLocation Manager: Ekthanat Sawasdee\nUnit Manager: Nonnawat Kongnithipyravanich\n \nEdit: Cabin @cabinedit\nEditor: Nik Kohler @nik.kohler_\nEdit Producer: Joanna Dawson\nEdit EP: Kayt Hall\nAssistant Editors - Sabra Stratton, Victoria Man, Craig Griffiths, Julie Levy\n \nVFX / Colour: Black Kite Studios @blackkitestudios\nPost-Production Executive Producer: Amy Richardson\nSenior Producer: Alizée Levrino\nColourist: Tom Mangham @thomasmangham \nVFX Lead: Jack Stone\nVFX Artists: Alfie Gunther, Anastasios Agiakatsikas, Aurélien Lemonnier, Claudio Jarrao, Dan Moore, David Birkill, Ethan Francis, Itay Greenberg, James Marshall, Laurence Lavoie, Leonie Wong, Matt Hutchins, Matt Jackson, Mauro Nodari, Miguel Carballal, Nile Hylton, Pablo Oliver\n \nBTS: David Malave @davemalave\n\n#LISA #ROCKSTAR",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hbcGx4MGUMg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hbcGx4MGUMg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hbcGx4MGUMg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hbcGx4MGUMg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hbcGx4MGUMg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 23,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "hbcGx4MGUMg"
+          },
+          "videoOwnerChannelTitle": "LLOUD Official",
+          "videoOwnerChannelId": "UC6-BgjsBa5R3PZQ_kZ8hKPg"
+        },
+        "contentDetails": {
+          "videoId": "hbcGx4MGUMg",
+          "videoPublishedAt": "2024-06-28T00:00:07Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "Ad9gwVqiHL9r76uZ-F5m_Z783Jg",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5DRUQyQTg1MUIxN0E3QkIy",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "[MV] 허각 임한별 이무진 이진성(먼데이 키즈)  김희재 #안녕 '오래된 노래' | SBS '더 리슨: 너와 함께한 시간'",
+          "description": "여름날의 음악여행\nSBS '더 리슨: 너와 함께한 시간'\n매주 금요일 밤 11시20분 방송 \n\n#허각 #임한별 #이무진 #이진성 #먼데이키즈 #김희재 #안녕 #오래된노래 #더리슨 #더리슨_너와함께한시간",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JzIT15DkZyI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JzIT15DkZyI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JzIT15DkZyI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JzIT15DkZyI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JzIT15DkZyI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 24,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "JzIT15DkZyI"
+          },
+          "videoOwnerChannelTitle": "한밤 HANBAM",
+          "videoOwnerChannelId": "UCpAU942wYzOyECalwbMVnCA"
+        },
+        "contentDetails": {
+          "videoId": "JzIT15DkZyI",
+          "videoPublishedAt": "2024-06-17T05:13:45Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "FXHg-Mhxqnhb5W5LEYMIOawcjLc",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS45OTZGNUE3QzZBRTA4OEUw",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "NAYEON \"ABCD\" M/V",
+          "description": "NAYEON \"ABCD\" M/V\n\nNAYEON THE 2nd MINI ALBUM \"NA\"\n\n🦋 Listen [NA] 🦋\nhttps://NAYEON.lnk.to/NAYEON_NA \n\nTWICE Official Shop: https://TWICE.lnk.to/Shop\nTWICE Official YouTube: http://www.youtube.com/c/TWICE\nTWICE Official Facebook: http://www.facebook.com/JYPETWICE\nTWICE Official X(Twitter): http://www.twitter.com/JYPETWICE\nTWICE Official TikTok : https://www.tiktok.com/@twice_tiktok_official\nTWICE Official Instagram: http://www.instagram.com/TWICETAGRAM\nTWICE Official Homepage: http://TWICE.jype.com\nTWICE Official FANS: https://jypfans.onelink.me/UuBp/1u3banhi \n\nⓒ 2024 JYP Entertainment. All Rights Reserved\n\n#TWICE #NAYEON #NA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oUZttxRcPZw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oUZttxRcPZw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oUZttxRcPZw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oUZttxRcPZw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oUZttxRcPZw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 25,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "oUZttxRcPZw"
+          },
+          "videoOwnerChannelTitle": "JYP Entertainment",
+          "videoOwnerChannelId": "UCaO6TYtlC8U5ttz62hTrZgg"
+        },
+        "contentDetails": {
+          "videoId": "oUZttxRcPZw",
+          "videoPublishedAt": "2024-06-14T03:58:09Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "3u1TuiBlTA6Hl-Y21esJge1vQSE",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5ERkJENDI3RjM4M0M5MEE3",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "IVE 아이브 'Accendio' MV",
+          "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PGLx4V680J8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PGLx4V680J8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PGLx4V680J8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PGLx4V680J8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PGLx4V680J8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 26,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "PGLx4V680J8"
+          },
+          "videoOwnerChannelTitle": "STARSHIP",
+          "videoOwnerChannelId": "UCYDmx2Sfpnaxg488yBpZIGg"
+        },
+        "contentDetails": {
+          "videoId": "PGLx4V680J8",
+          "videoPublishedAt": "2024-05-15T14:00:19Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "84HiCMgQ8bKj29uvZLx57oeUApI",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5EOEFBMTI2MDQyMTk3RjNB",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "BABYMONSTER - ‘SHEESH’ M/V",
+          "description": "BABYMONSTER — SHEESH\n\nDa la lun dun\nDa la lun dun\nDa la lun dun\n\nBABY I’mma MONSTER\n\nMano a mano\nI see you in slow mo’\nYou know you’re in trouble\nOoh hoo hoo hoo\n\n발버둥 쳐봐\n어차피 손바닥\n위에서 못 나가\nYou know that\n\n눈을 뜬 순간\n피어나\nAll eyes on me\n불을 질러라\n\nDo or die\nOn my life\nYeah you ain’t seen nothing yet\n\nGot them all going\nSheesh Sheesh\nSheesh Sheesh Sheesh yeah\n\nB.A.B.Y.M.O.N\nSheesh Sheesh\nSheesh Sheesh Sheesh yeah\nGot them all going\n\nYo hold on 쉿\n걍 들이부어라 네 달팽이관에\n이건 네 귀에 줄 축복\n음악에 맞춰 걍 춤 춰\n\n히비리 합 합 boom boom pow\n분위기 타올라 너네들 눈 돌아\n띵하니 적잖이 충격일 거야\n\nCrown this queen\n홈런은 쳤고 내 다음은 위\n어중이떠중이 중간 아님\n날 보고 닫혔던 입들 say\nSheesh Sheesh Sheesh\n\nYou know what it is\nI be running this\nPull up in a ghost\nPeek a peek a boo hoo\nVroom vroom\n너네 심장에 박동이 pump pump pop\nPedal to the metal\nClick clack click\nPut’em up to the sky\nHigh high high high\n\n눈을 뜬 순간\n피어나\nAll eyes on me\n불을 질러라\n\nDo or die\nOn my life\nYeah you ain’t seen nothing yet\n\nGot them all going\nSheesh Sheesh\nSheesh Sheesh Sheesh yeah\n\nB.A.B.Y.M.O.N\nSheesh Sheesh\nSheesh Sheesh Sheesh yeah\nGot them all going\n\n마음껏 웃어봐\n이젠 내 차례니까\n\n천천히 불태워 네가 잠든 사이\n\nTime’s up\n올라가 올라가 더\n\n꼭대기 꼭대기로\n하늘 위 하늘 위로\n\nFly away\n온 세상을 뒤집어\nCome on let’s ride\n\nBABY I’mma MONSTER\n\nB A B Y M O N\nTell a friend tell a friend tell a friend\nB A B Y M O N\nTell a friend tell a friend tell a friend\n\nLet's go\nJump jump and let it go\nWatch out we on a roll\nRum pump pump pump it up then\n\nJump jump and let it go\nWatch out we on a roll\nRum pump pump pump it up then\n\n#BABYMONSTER #베이비몬스터 #1stMINIALBUM #BABYMONS7ER #SHEESH #MV #OUTNOW #YG\n\nAvailable @ https://BABYMONSTER.lnk.to/BABYMONS7ER \n\nMore about BABYMONSTER @\nOfficial YouTube https://www.youtube.com/@BABYMONSTER\nOfficial Instagram https://www.instagram.com/babymonster_ygofficial\nOfficial Facebook https://www.facebook.com/BABYMONSTER.ygofficial\nOfficial Twitter https://twitter.com/YGBABYMONSTER_\nOfficial TikTok https://tiktok.com/@babymonster_yg_tiktok\nOfficial Weibo https://weibo.com/u/7811488144\nOfficial bilibili https://space.bilibili.com/3493127232948989",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2wA_b6YHjqQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2wA_b6YHjqQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2wA_b6YHjqQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2wA_b6YHjqQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2wA_b6YHjqQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 27,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2wA_b6YHjqQ"
+          },
+          "videoOwnerChannelTitle": "BABYMONSTER",
+          "videoOwnerChannelId": "UCqwUnggBBct-AY2lAdI88jQ"
+        },
+        "contentDetails": {
+          "videoId": "2wA_b6YHjqQ",
+          "videoPublishedAt": "2024-03-31T15:00:08Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "_eGDH-x_rlvAa4KQjk65Z8f-RTM",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5FN0IwRjJCRkY4M0E2RkZC",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "T.B.H (Ballad Ver.) (고민중독 (Ballad Ver.))",
+          "description": "Provided to YouTube by Kakao Entertainment\n\nT.B.H (Ballad Ver.) (고민중독 (Ballad Ver.)) · HYB (Huh Gak，Shin Yong Jae，Onestar) · Jeong DongHwan · Lee DongHyuk · HunGi Hong · Elum · GESTURE · Ayoung Han · Lee DongHyuk · GESTURE · Kim HyeJung · Elum · Magenta\n\nHYB PROJECT - Special Single\n\n℗ 2024 FLEX M,under license to Kakao Entertainment\n\nReleased on: 2024-06-30\n\nAuthor: 이동혁\nAuthor: GESTURE\nAuthor: 김혜정\nAuthor: Elum\nAuthor: 마젠타\nComposer: 이동혁\nComposer: 홍훈기\nComposer: Elum\nComposer: GESTURE\nComposer: 한아영\nArranger: 정동환 (멜로망스)\n\nAuto-generated by YouTube.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_D7xotnfWyI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_D7xotnfWyI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_D7xotnfWyI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_D7xotnfWyI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_D7xotnfWyI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 28,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_D7xotnfWyI"
+          },
+          "videoOwnerChannelTitle": "HYB (Huh Gak，Shin Yong Jae，Onestar) - Topic",
+          "videoOwnerChannelId": "UCKc2d6JmfnxF72M-7jf95uA"
+        },
+        "contentDetails": {
+          "videoId": "_D7xotnfWyI",
+          "videoPublishedAt": "2024-06-30T09:04:30Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "T1rPoUp-X3b6hCjPVUIi8nWXRcg",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS45NjhFNjQxQkNGNjM0RkNC",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "[OFFICIAL LIVE] 순순희(지환) - 슬픈 초대장",
+          "description": "#슬픈초대장 #순순희 #지환 \n\n*순순희 인스타정보*\n김기태(노랑머리) ssh_gitae\n미러볼(빡빡이) iruy_kimm\n윤지환(ㅋ) sshhwany",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hkROGL9id6Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hkROGL9id6Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hkROGL9id6Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hkROGL9id6Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hkROGL9id6Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 29,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "hkROGL9id6Y"
+          },
+          "videoOwnerChannelTitle": "순순희",
+          "videoOwnerChannelId": "UCxVJ3rXFKib5atFxUMc35fw"
+        },
+        "contentDetails": {
+          "videoId": "hkROGL9id6Y",
+          "videoPublishedAt": "2023-12-20T10:30:13Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "KQCfsezTMhSkkJOljJns95nvyZM",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5GOUQyQTNFRTVBQjczM0Q0",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "aespa 에스파 'Drama' MV",
+          "description": "aespa's 4th Mini Album \"Drama\" is out!\nListen and download on your favorite platform: https://aespa.lnk.to/DramaMiniAlbum \n\n[Tracklist]\n01 Drama\n02 Trick or Trick\n03 Don't Blink\n04 Hot Air Balloon\n05 YOLO\n06 You\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #Drama #에스파 #æspa #aespaDrama\naespa 에스파 'Drama' MV ℗© 2023 SM Entertainment, under exclusive license to Warner Records Inc.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/D8VEhcPeSlc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/D8VEhcPeSlc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/D8VEhcPeSlc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/D8VEhcPeSlc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/D8VEhcPeSlc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 30,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "D8VEhcPeSlc"
+          },
+          "videoOwnerChannelTitle": "SMTOWN",
+          "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
+        },
+        "contentDetails": {
+          "videoId": "D8VEhcPeSlc",
+          "videoPublishedAt": "2023-11-10T04:59:09Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "6V9sgaTkc1BIqmM1M72nEjTrAMI",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS4xRDNDQzRCMzk2OTNDN0Q5",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "임영웅 '온기' Official M/V",
+          "description": "#임영웅 #LimYoungWoong #온기\n\n임영웅 웅튜브 \n구독♡좋아요♡알람설정\n열심히 할게요/당신도 누를 수 있도록 \n\nLim Young Woong  [I'm HERO] Youtube Channel\nSubscribe Like Alert Setting \nThank You♡\n\n공식 팬카페 [영웅시대]\nhttp://cafe.daum.net/hero0616",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2WGc-5VdoGw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2WGc-5VdoGw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2WGc-5VdoGw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2WGc-5VdoGw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2WGc-5VdoGw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 31,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2WGc-5VdoGw"
+          },
+          "videoOwnerChannelTitle": "임영웅",
+          "videoOwnerChannelId": "UC3WZlO2Zl8NE1yIUgtwUtQw"
+        },
+        "contentDetails": {
+          "videoId": "2WGc-5VdoGw",
+          "videoPublishedAt": "2024-05-05T09:16:07Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "_hmsaBceznKDzsZuZQu_goy4jBA",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS44MTE0MTFFN0QwQ0NCNjIw",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "[단독 공개] 하동균 - 내가 그댈 Special Clip",
+          "description": "[단독 공개] 하동균 - 내가 그댈 Special Clip \n\n#하동균 #내가그댈 \n------------------------------------------------------------------------------\n\nTOON STUDIO\n\nYoutube ▶https://www.youtube.com/channel/UCve0b6qhfxTpKeqzZ4u0MjQ?sub_confirmation=1\nFacebook ▶https://www.facebook.com/TOON-STUDIO-113508993765749",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ieNRuvTQzm8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ieNRuvTQzm8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ieNRuvTQzm8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ieNRuvTQzm8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ieNRuvTQzm8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 32,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ieNRuvTQzm8"
+          },
+          "videoOwnerChannelTitle": "TOON STUDIO",
+          "videoOwnerChannelId": "UCve0b6qhfxTpKeqzZ4u0MjQ"
+        },
+        "contentDetails": {
+          "videoId": "ieNRuvTQzm8",
+          "videoPublishedAt": "2024-06-23T08:56:00Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "_V1-ecGNf5D-71afbVbOetYaMpE",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS42MDMxNDY0MEE5QjhGMDBF",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "VIVIZ (비비지) - 'MANIAC' MV",
+          "description": "VIVIZ (비비지) - 'MANIAC' MV\n\nVIVIZ Official\nYoutube : https://www.youtube.com/channel/UCWFMjDuWKlct0jy89k2kkRA\nInstagram : https://www.instagram.com/viviz_official/\nTwitter : https://twitter.com/VIVIZ_official\nFancafe : https://m.cafe.daum.net/VIVIZ/\nTikTok : https://vt.tiktok.com/ZSe4FYpYt/ \n\nBig Planet Made Official\nInstagram : https://instagram.com/bpm_ent_official\nTwitter : https://twitter.com/bpmentofficial\nFacebook : https://www.facebook.com/BigPlanetMade\nYoutube : https://www.youtube.com/c/BPMEntertainment-official\n\n#VIVIZ #비비지\n#EUNHA #은하 \n#SINB #신비 \n#UMJI #엄지 \n#VERSUS #MANIAC\n#BPM #BigPlanetMade",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9JFi7MmjtGA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9JFi7MmjtGA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9JFi7MmjtGA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9JFi7MmjtGA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9JFi7MmjtGA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 33,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "9JFi7MmjtGA"
+          },
+          "videoOwnerChannelTitle": "BPM Entertainment",
+          "videoOwnerChannelId": "UC6YMr57knEIYXOOKMmYAFXQ"
+        },
+        "contentDetails": {
+          "videoId": "9JFi7MmjtGA",
+          "videoPublishedAt": "2023-11-02T09:00:06Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "d7ehgX_66fx0NSYSkcHzpxpsGOs",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5BRDE1NjU1REVCMzA1QkY0",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "はいよろこんで / こっちのけんと MV",
+          "description": "・・・ーーー・・・\n\n我ながら未だにうつ病や躁鬱が理解できず「どこからが”病”なのか」「どこまでが”優しさ”や”我慢”なのか」を見失う毎日のため、日々SOSを出す癖をつけたいと思い制作いたしました。\nとても辛いことですが、ここで一歩を踏み出して嫌だったことを思い出して、周りが気づくくらい泣き喚くのもグッジョブだと思います。\nそれに人生は長いので全回復してもまた擦り減ります。\nハートギリギリをキープして有耶無耶に生きてやりましょう。\n\nこんな生きづらい世の中で自分を克服して生きやすくなったとしても、きっとその生き方は心地よくないので「好きなことをしている時だけ本当の自分に戻る」を意識するといいかもしれません。\n嫌なことをしている時は「こんなの自分じゃない」と思いますが、そりゃそうです。\nそんなのあなたじゃありません。\n\n自分がわがままになれる瞬間や環境を作るのがまずは第一歩なのかもしれません。\n僕の場合は音楽を作っている時や妻と休日にマクドを食べるときです。セットにチキンナゲットもつけます。ここぞとばかりに欲張ります。セットの飲み物はミルクです。口頭で注文した時クルーにクスっと笑われました。なんでや。\n\nとにかく、\n簡単なので「わがまま空間」を過ごしている時は「幸せやなぁ」って自惚れまくってくださいね。\n\n・・・ーーー・・・\n\n作詞：こっちのけんと\n作曲：こっちのけんと&GRP\n編曲：GRP(@GRP_beatz)\nMixing Engineer：安宅秀紀(@nman_atk)\nRecording Engineer：古澤みどり\nMV ：かねひさ和哉（@kane_hisa ）\n\nCopyrights 2024© blowout Inc. All Rights Reserved\n\n▼全部フォローお願いします。頑張って面白いこと言います。\n→https://lit.link/SuppokoPeppoko\n\n▼公式グッズはこちら\nhttps://suzuri.jp/SuppokoPeppoko\n\n▼人気の動画集\nhttps://www.youtube.com/playlist?list=PLuzm7ZJ7XWnAyXzSQeU1MtBMOMMSQ9DGH\n\n▼おすすめ動画\nhttps://www.youtube.com/watch?v=t5Ah4y28Rcc&t=11s\n\n＃はいよろこんで\n＃こっちのけんと\n＃病",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jzi6RNVEOtA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jzi6RNVEOtA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jzi6RNVEOtA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jzi6RNVEOtA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jzi6RNVEOtA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 34,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jzi6RNVEOtA"
+          },
+          "videoOwnerChannelTitle": "こっちのけんと",
+          "videoOwnerChannelId": "UC1laSZHo_6VBXU9FmfGNwFA"
+        },
+        "contentDetails": {
+          "videoId": "jzi6RNVEOtA",
+          "videoPublishedAt": "2024-05-27T13:00:07Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "I6JsvGND5alxbTRBEy0FA_LcTRU",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5CODY1MDdGOENFMjcxQzc5",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "NewJeans (뉴진스) 'ETA' Official MV",
+          "description": "NewJeans (뉴진스) 'ETA' Official MV\n\nProducer: MIN HEE JIN\nMusic Video Director: Wooseok Shin\n\nIn collaboration with Apple, this music video was entirely shot on iPhone 14 Pro.\n\n© 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL FACEBOOK https://www.facebook.com/official.newjeans\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #ETA #ShotOniPhone\n#광고 #Time_to_NewJeans\n#뉴진스 #NewJeans_GetUp\n#NewJeans_ETA #iPhone14Pro #Apple \n#ADOR #어도어",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jOTfBlKSQYY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jOTfBlKSQYY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jOTfBlKSQYY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jOTfBlKSQYY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jOTfBlKSQYY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 35,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jOTfBlKSQYY"
+          },
+          "videoOwnerChannelTitle": "HYBE LABELS",
+          "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+        },
+        "contentDetails": {
+          "videoId": "jOTfBlKSQYY",
+          "videoPublishedAt": "2023-07-21T03:58:10Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "2zh6X3a-6PWh3PISQ9eVHvbIVYE",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS45NjkxNTE5NEE5NjRBMjQ3",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "If I have you only (My love X Nerd Connection) (그대만 있다면 (여름날 우리 X...",
+          "description": "Provided to YouTube by Kakao Entertainment\n\nIf I have you only (My love X Nerd Connection) (그대만 있다면 (여름날 우리 X 너드커넥션)) · Nerd Connection\n\nIf I have you only (My love X Nerd Connection)\n\n℗ 2023 TOON STUDIO,under license to Kakao Entertainment\n\nReleased on: 2023-08-15\n\nAuthor: 강현민\nComposer: 강현민\nArranger: 정수민 (SSMusic)\n\nAuto-generated by YouTube.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IMWT6937uUs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IMWT6937uUs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IMWT6937uUs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IMWT6937uUs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IMWT6937uUs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 36,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "IMWT6937uUs"
+          },
+          "videoOwnerChannelTitle": "Nerd Connection - Topic",
+          "videoOwnerChannelId": "UCCaBM8AtUiqVwJQZHbtua2w"
+        },
+        "contentDetails": {
+          "videoId": "IMWT6937uUs",
+          "videoPublishedAt": "2023-08-15T09:03:03Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "c8QXIMr4VLNF_lblRsn1MmQhyw8",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS45MDdBRDZENkM1MjQ1NzE5",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "TAEYEON 태연 'To. X' MV",
+          "description": "TAEYEON's 5th mini album \"To. X\" is out! \nListen and download on your favorite platform: https://TAEYEON.lnk.to/To.X\n\n[Tracklist] \n01 To. X\n02 Melt Away\n03 Burn It Down\n04 악몽 (Nightmare)\n05 All For Nothing\n06 Fabulous\n\nTAEYEON Official \nhttps://www.youtube.com/taeyeonofficial\nhttps://www.instagram.com/taeyeon.smofficial/\nhttps://twitter.com/TAEYEONsmtown\nhttps://www.facebook.com/TAEYEON.smofficial/\n\n#태연 #TAEYEON \n#ToX #TAEYEONToX\n#소녀시대 #GirlsGeneration\nTAEYEON 태연 'To. X' MV ℗ SM Entertainment",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5_n6t9G2TUQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5_n6t9G2TUQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5_n6t9G2TUQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5_n6t9G2TUQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5_n6t9G2TUQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 37,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5_n6t9G2TUQ"
+          },
+          "videoOwnerChannelTitle": "SMTOWN",
+          "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
+        },
+        "contentDetails": {
+          "videoId": "5_n6t9G2TUQ",
+          "videoPublishedAt": "2023-11-27T08:59:09Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "n4SegDVV3mwgG5hCEaaj_5wTW3k",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5EQTMzOTE5MjA0NDE1NEUy",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "[MV] LEE MU JIN(이무진) - Sorrow Thoughts(애상)",
+          "description": "[MV] LEE MU JIN(이무진) - Sorrow Thoughts(애상)\n\nLEE MU JIN's New Single Album [Sorrow Thoughts]\n\nNow Available on : \n▶Bugs : http://music.bugs.co.kr/album/4103252\n\n#LEEMUJIN #이무진 #애상\n\nSUPER SOUND, BUGS!\nhttp://www.bugs.co.kr",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/K16nk_7VyL0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/K16nk_7VyL0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/K16nk_7VyL0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/K16nk_7VyL0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 38,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "K16nk_7VyL0"
+          },
+          "videoOwnerChannelTitle": "SUPER SOUND Bugs!",
+          "videoOwnerChannelId": "UC9PVYlrwFSlqG7w8TDsqRvQ"
+        },
+        "contentDetails": {
+          "videoId": "K16nk_7VyL0",
+          "videoPublishedAt": "2024-06-30T09:00:25Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "FwfH3nWmcnsZBlo3s5z85fqX10c",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5DNDMxNkNDRDBGNEZERTgy",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "IU 'Love wins all' MV",
+          "description": "IU Pre-Release Single 'Love wins all'\n\n#아이유 #IU #Love_wins_all\n\n\n[IU Official SNS]\n\nYouTube ▶ https://www.youtube.com/@dlwlrma\nInstagram ▶ https://www.instagram.com/dlwlrma/\nX ▶https://twitter.com/_IUofficial\nTiktok ▶ https://www.tiktok.com/@_iuofficial\nFancafe ▶ https://cafe.daum.net/IU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JleoAppaxi0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JleoAppaxi0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JleoAppaxi0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JleoAppaxi0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JleoAppaxi0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 39,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "JleoAppaxi0"
+          },
+          "videoOwnerChannelTitle": "이지금 [IU Official]",
+          "videoOwnerChannelId": "UC3SyT4_WLHzN7JmHQwKQZww"
+        },
+        "contentDetails": {
+          "videoId": "JleoAppaxi0",
+          "videoPublishedAt": "2024-01-23T15:00:15Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "hrcttAtmXm-5OVVQnhP79INp91Y",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5BNUUwNzg5MjhGQTE1Mjg1",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "정국 (Jung Kook) 'Seven (feat. Latto)' Official MV",
+          "description": "정국 (Jung Kook) 'Seven (feat. Latto)' Official MV\n\n'Seven (feat. Latto)' Release\n💽 Listen to 'Seven': https://ingrv.es/Seven\n\nCredits:\nDirected by Bradley & Pablo \n\nProduction Company: Prettybird\nProducer: Candice Dragonas and Jason Baum\nDirector of Photography: Pablo Berron \n\nProduction Designer: Adam William Wilson \nEditor: Antonio Gomez-Pan \n\nVisual Effects by Foreign Xchange\nColorist: Natasha Leonnet \n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS:\nhttps://ibighit.com/bts\nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt\nhttp://www.facebook.com/bangtan.official\nhttps://www.youtube.com/user/BANGTANTV\nhttp://instagram.com/BTS.bighitofficial\nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers\nhttp://btsblog.ibighit.com\n\n\n#정국 #JungKook #JungKook_Seven",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QU9c0053UAU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QU9c0053UAU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QU9c0053UAU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QU9c0053UAU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QU9c0053UAU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 40,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "QU9c0053UAU"
+          },
+          "videoOwnerChannelTitle": "HYBE LABELS",
+          "videoOwnerChannelId": "UC3IZKseVpdzPSBaWxBxundA"
+        },
+        "contentDetails": {
+          "videoId": "QU9c0053UAU",
+          "videoPublishedAt": "2023-07-14T04:00:00Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "zdYIYllPsf9_pxjTMXt0JWZndXk",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5ENzUzNDUzOTQyOTZFOTVC",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "tripleS(트리플에스) 'Girls Never Die' Official MV",
+          "description": "ASSEMBLE24 is now available on the following platforms!\nhttps://orcd.co/triples_assemble24\n\n----------\n\ntripleS ASSEMBLE24 SPACE\nhttps://elypecs.com/play/yyuehra3vbu34rno\n\n----------\n\n\nCosmo : the Gate\nWhere everything of tripleS begins\n· Collect limited seasonal Objekt.\n· Stan your favorite S and get special Objekts.\n· Join various Gravity and cast your opinion for your beloved S.\n\n· Download Cosmo here!\niOS Apple Store : https://apple.co/3XLFntk\nAndroid : https://bit.ly/3Uhqnk7\n\nOfficial Website : https://www.triplescosmos.com\nOfficial Discord : https://discord.gg/triplescosmos\nOfficial Twitter : https://twitter.com/triplescosmos\nOfficial Instagram : https://www.instagram.com/triplescosmos\nOfficial TikTok : https://www.tiktok.com/@triplescosmos\n\n#tripleS #트리플에스 #トリプルS \n#SeoYeon #HyeRin #JiWoo #ChaeYeon #YooYeon #SooMin #NaKyoung #YuBin #Kaede #DaHyun #Kotone #YeonJi #Nien #SoHyun #Xinyu #Mayu #Lynn #JooBin #HaYeon #ShiOn #ChaeWon #Sullin #SeoAh #JiYeon",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2tda_TCjz8w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2tda_TCjz8w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2tda_TCjz8w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2tda_TCjz8w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2tda_TCjz8w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 41,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2tda_TCjz8w"
+          },
+          "videoOwnerChannelTitle": "tripleS official",
+          "videoOwnerChannelId": "UCJnL-TBcsYrF2SLs7tmiC8Q"
+        },
+        "contentDetails": {
+          "videoId": "2tda_TCjz8w",
+          "videoPublishedAt": "2024-05-08T09:00:08Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "3HrXr-0mmFg1iZbnRVQWzK0E1kA",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5DNzBDMDNCNDE1RjIxMUMx",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "TimeFeveR(타임피버) '동창회 (feat. Small Kidd)' Official MV",
+          "description": "TimeFeveR - 동창회 (feat. Small Kidd) Official M/V - [TimeFeveR!] EP\n\n스트리밍♬  : https://www.melon.com/album/detail.htm?albumId=10317036\n\n\nMusic Video Directed by Lyu ji 'J'iro, TimeFeveR\n\n\n장소협찬:\n신촌 이본느의 향기\n\n\nSpecial Thanks to \nSmall Kidd , Lyu ji 'J'iro, 차진혁, 김범준, NULLPO, 분평동 부랄들\n\nfollow\n\nInsragram: https://www.instagram.com/timefever98/\n\n\n\n#타임피버 #동창회 \n#TimeFeveR #REUNION\n#TimeFeveR!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aeiuwZlng3U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aeiuwZlng3U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aeiuwZlng3U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aeiuwZlng3U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aeiuwZlng3U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 42,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "aeiuwZlng3U"
+          },
+          "videoOwnerChannelTitle": "TimeFeveR - 타임피버",
+          "videoOwnerChannelId": "UC6dFCtUSZJ383yn1ybQBdsg"
+        },
+        "contentDetails": {
+          "videoId": "aeiuwZlng3U",
+          "videoPublishedAt": "2020-06-22T08:49:41Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "6q3mJZxpSN8yTkfNjEi5B_LfqJo",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS4wRjBGMkMxQzNDMkFFN0Iw",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "aespa 'Hot Mess' MV",
+          "description": "aespa's Japan Debut Single \"Hot Mess\" is out! \nListen and download on your favorite platform: https://aespa.lnk.to/HTMSS\n\n🔗 http://aespa-official.jp \n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #HotMess #에스파\n#æspa #エスパ #aespaHotMess",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2iK3ccCsI6s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2iK3ccCsI6s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2iK3ccCsI6s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2iK3ccCsI6s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2iK3ccCsI6s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 43,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2iK3ccCsI6s"
+          },
+          "videoOwnerChannelTitle": "SMTOWN",
+          "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
+        },
+        "contentDetails": {
+          "videoId": "2iK3ccCsI6s",
+          "videoPublishedAt": "2024-07-03T09:00:05Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "i7SFqezGwvfy3qy2LHda4la_tt8",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS40MEY4MkE4REU2Mzc4M0M4",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "[MV] Crush - Love You With All My Heart(미안해 미워해 사랑해)",
+          "description": "[MV] Crush - Love You With All My Heart(미안해 미워해 사랑해)\n\ntvN Drama Queen of Tears(2024) Original Sound Track - Part.4\n\nNow Available on : \n▶Bugs : https://music.bugs.co.kr/album/4099372\n\n#crush #미안해미워해사랑해 #눈물의여왕\n\nSUPER SOUND, BUGS!\nhttp://www.bugs.co.kr",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Z4qVfCi_lUI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Z4qVfCi_lUI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Z4qVfCi_lUI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Z4qVfCi_lUI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 44,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Z4qVfCi_lUI"
+          },
+          "videoOwnerChannelTitle": "SUPER SOUND Bugs!",
+          "videoOwnerChannelId": "UC9PVYlrwFSlqG7w8TDsqRvQ"
+        },
+        "contentDetails": {
+          "videoId": "Z4qVfCi_lUI",
+          "videoPublishedAt": "2024-03-24T09:00:20Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "DC7a1_KN5vfvdT2NoyMsfLvOuOQ",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS4xOEYyRDkxODQzQUI5RUY3",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "踊り子 / Vaundy：MUSIC VIDEO",
+          "description": "それは魔法のような一目の恋\n\nMade in Vaundy_ART Work Studio\n\r\n「踊り子」\n2021.11.17  0:00  Release\nhttps://ssm.lnk.to/odoriko\n\n\n#踊り子\n#小松菜奈\n#Vaundy\n\n- - - - - \n〈小林光大監督 コメント〉\n踊り子という素晴らしい楽曲はどの時代も揺るがない音楽の営みをあらためて実感させてくれました。この詩から感じられる反骨、強いまなざしを当代のミューズが歌います。\n\n〈小松菜奈さん コメント〉\nVaundyさんにとっても''特別な楽曲''と仰っていましたが、\nそんな大切な曲のMVに参加させていただく事ができてとっても嬉しいです。\n撮影の日は一日中、「踊り子」が頭の中で何回も何回も回り続け、私もくるくる・ぴょんぴょん・るんるんと。\nずっと踊っていられる、踊りたくなる曲、\n自由に身体を揺らしながらあっという間に一日が過ぎ、幸せな時間を過ごさせてもらいました！\nそしてVaundyさんご本人が自らメイキングを回してる姿にびっくりしたのと同時に、\n一つ一つに丁寧な方なんだなと思いました。\n一緒に楽しんでくれるVaundyさんが現場に居る事で、和やかでhappyな撮影になりました。\n私にとっても大好きな曲になりました。\n是非MVを最後までお楽しみください！\n\n-CREDIT-\n\nCast : Nana Komatsu\n\nDirector : Kodai Kobayashi\nDirector of Photography : Masaya Nakahara\nCamera Chief Assistant : Ryosuke Fujii\nCamera Assistant : Kosuke Nagamune / Shota Fujii\nLighting Director : Takuma Saeki\nLighting Chief Assistant : Hajime ogura\nLighting Assistant : Akito Saito / Yukari Saito / Yutaro Meguro\nArt Director : Chihiro Matsumoto\nArt Assistant : Ryudou Ishii / Minami Hayashi\nStylist : Daisuke Iga\nHair and Make up : Mai Ozawa\nChoreographer : Chiharu Shimura\nEditor : Pennacky\nOnline Editor : Tomoya Sugino\nColorist : Toshiki Kamei\nTitle Design : Yugo Sato\nProducer : Yuki Wakisaka\nProduction Manager : Kosuke Yamashita / Atsushi Hiraki\nProduction Assistant : Ryotaro Matsuura / Asuka Ikeda / Aoi Sasaki / Mami Ueda\nProduction : isai Inc.\nSpecial Thanks : Yomiuriland\n\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n\n【Vaundy自身最大規模となる5大都市10公演アリーナツアー決定！】\n - Vaundy one man live ARENA tour - \n\n2023.11.18 (sat) ゼビオアリーナ仙台（宮城）\n2023.11.19 (san)ゼビオアリーナ仙台（宮城）\n2023.12.02 (sat) 横浜アリーナ（神奈川）\n2023.12.03 (sun) 横浜アリーナ（神奈川）\n2023.12.09 (sat) マリンメッセ福岡 A館（福岡）\n2023.12.10 (sun) マリンメッセ福岡 A館（福岡）\n2023.12.16 (sat) 大阪城ホール（大阪）\n2023.12.17 (sun) 大阪城ホール（大阪）\n2024.01.05 (fri) 日本ガイシホール（愛知）\n2024.01.06 (sat) 日本ガイシホール（愛知）\n\n■「Vaundy ART Work Studio Members」会員限定先行受付最速先行https://member.vaundy.jp/feature/entry\n受付期間：2022年9月9日(金)20:00～9月20日(火)23:59 \n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n\n【2023年春 全国22本をまわるホールツアー全公演即日完売】\nThank you sold out!\n\n- Vaundy one man live tour 2023 Spring -\n\n2023.01.14(sat)   J:COMホール八王子 (東京都)\n2023.01.20(fri)    仙台サンプラザホール (宮城県)\n2023.01.21(sat)   岩手県民会館 大ホール (岩手県)\n2023.01.28(sat)   NHKホール (東京都)\n2023.01.29(sun)  NHKホール (東京都)\n2023.02.04(sat)  熊本城ホールメインホール (熊本県)\n2023.02.05(sun)  鹿児島 宝山ホール (鹿児島県)\n2023.02.10(fri)     福岡サンパレス (福岡県)\n2023.02.11(sat)   福岡サンパレス (福岡県)\n2023.02.18(sat)   名古屋国際会議場 センチュリーホール (愛知県)\n2023.02.19(sun)  名古屋国際会議場 センチュリーホール (愛知県)\n2023.02.24(fri)     大阪 フェスティバルホール (大阪府)\n2023.02.25(sat)   大阪 フェスティバルホール (大阪府)\n2023.03.04(sat)   札幌 カナモトホール (北海道)\n2023.03.05(sun)  札幌 カナモトホール (北海道)\n2023.03.11(sat)   新潟県民会館 (新潟県)\n2023.03.12(sun)  金沢 本多の森ホール (石川県)\n2023.03.18(sat)   広島文化学園HBGホール (広島県)\n2023.03.19(sun)  神戸国際会館こくさいホール (兵庫県)\n2023.03.21(tue)   松山市民会館 大ホール (愛媛県)\n2023.03.25(sat)   東京ガーデンシアター (東京都)\n2023.03.26(sun)  東京ガーデンシアター (東京都)\n\n◼︎詳細\nhttps://vaundy.jp/news/vaundy-one-man-live-tour-2023-spring/\n\n- - - - - - -\nListen to Vaundy\n▶︎https://vaundy.lnk.to/links\n\n最新配信曲\n「泣き地蔵」配信中\nhttps://ssm.lnk.to/NakiJizo\n\n「Tokimeki」配信中\nhttps://ssm.lnk.to/Tokimeki\n(TOYOTA「カローラクロス」CMソング)\n\n「花占い」配信中\nhttps://ssm.lnk.to/Hanauranai\n(日本テレビ系 新日曜ドラマ 「ボクの殺意が恋をした」主題歌)\n\n「benefits」配信中\nhttps://ssm.lnk.to/benefits\n\n「しわあわせ」配信中\n(専門学校 首都医校・大阪医専・名古屋医専 2021年度 TVCMソング)\n\rhttps://ssm.lnk.to/Shiwaawase\n\n「融解sink」配信中\n\rhttps://ssm.lnk.to/YuukaiSink\n\n「地球儀 with Vaundy」 / Aimer 配信中\n\rhttps://aimer.lnk.to/chikyugi_with_Vaundy\n\n1st album「strobo」\r発売、配信中\nZXRC-2065 ¥3,000(税抜)\nhttps://vaundy.lnk.to/links\n\n- - - - - - -\n\n◇HP\n https://vaundy.jp\n◇Twitter       \n https://twitter.com/vaundy_engawa\n◇instagram   \nhttps://www.instagram.com/vaundy_engawa",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7HgJIAUtICU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7HgJIAUtICU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7HgJIAUtICU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7HgJIAUtICU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7HgJIAUtICU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 45,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "7HgJIAUtICU"
+          },
+          "videoOwnerChannelTitle": "Vaundy",
+          "videoOwnerChannelId": "UC1FQWQ3y3-e8l1pCtWhJt5A"
+        },
+        "contentDetails": {
+          "videoId": "7HgJIAUtICU",
+          "videoPublishedAt": "2021-11-16T15:00:11Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "wkcTIvEtfphCr83a9EZdKv9wN3A",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS41N0UzRkUxMzEyNDY5OTQz",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "Into You (네가 내 마음에 자리 잡았다 (Into You))",
+          "description": "Provided to YouTube by Kakao Entertainment\n\nInto You (네가 내 마음에 자리 잡았다 (Into You)) · N.Flying\n\nInto You\n\n℗ 2024 FNC ENTERTAINMENT,under license to Kakao Entertainment\n\nReleased on: 2024-06-25\n\nAuthor: 이승협 (J.DON)\nAuthor: 이상호 (RBW)\nAuthor: 서용배 (RBW)\nComposer: 이승협 (J.DON)\nComposer: 이상호 (RBW)\nComposer: 서용배 (RBW)\nArranger: 이상호 (RBW)\nArranger: 서용배 (RBW)\n\nAuto-generated by YouTube.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/z0etU3BEHdw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/z0etU3BEHdw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/z0etU3BEHdw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/z0etU3BEHdw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/z0etU3BEHdw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 46,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "z0etU3BEHdw"
+          },
+          "videoOwnerChannelTitle": "N.Flying - Topic",
+          "videoOwnerChannelId": "UCiUFfUMn94eDs0jA-xZXVWw"
+        },
+        "contentDetails": {
+          "videoId": "z0etU3BEHdw",
+          "videoPublishedAt": "2024-06-25T09:01:00Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "wYWpK_tVmXUfaDVXGNPPjvojJ4I",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5ENjMwN0FGMTIxNjAxRjkx",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "Rhapsody of Sadness",
+          "description": "Provided to YouTube by GENIE MUSIC\n\nRhapsody of Sadness · Lim Jae Hyun\n\nRhapsody of Sadness\n\n℗ 2023 DAWN TAPE, IK PRODUCTION under licence to Genie Music Corporation\n\nReleased on: 2023-12-03\n\nLyricist: 주영훈, Lee Se Joon\nComposer: 주영훈\nArranger: 신성진\n\nAuto-generated by YouTube.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TyCYGCCD6iQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TyCYGCCD6iQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TyCYGCCD6iQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TyCYGCCD6iQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TyCYGCCD6iQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 47,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "TyCYGCCD6iQ"
+          },
+          "videoOwnerChannelTitle": "Lim Jae Hyun - Topic",
+          "videoOwnerChannelId": "UCqlD7ycMOdfsonnI5-IL6-Q"
+        },
+        "contentDetails": {
+          "videoId": "TyCYGCCD6iQ",
+          "videoPublishedAt": "2023-12-03T09:03:54Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "xKoOQzFfMqpc5krabU642-XAHxw",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS5DRjM2QkRFQTUxRUFERDg0",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "AKMU - ‘후라이의 꿈’ SPECIAL LYRIC VIDEO",
+          "description": "후라이의 꿈\n\n저 거위도 벽을 넘어 하늘을 날을 거라고\n달팽이도 넓고 거친 바다 끝에 꿈을 둔다고\n나도 꾸물꾸물 말고 꿈을 찾으래\n어서 남의 꿈을 빌려 꾸기라도 해\n\n내게 강요하지 말아요 이건 내 길이 아닌걸\n내밀지 말아요 너의 구겨진 꿈을\n\n난 차라리 흘러갈래\n모두 높은 곳을 우러러볼 때\n난 내 물결을 따라\nFlow flow along flow along my way\n\n난 차라리 꽉 눌러붙을래\n날 재촉한다면 \n따뜻한 밥 위에 누워 자는\n계란 fry fry 같이 나른하게\n\n고래도 사랑을 찾아 파도를 가를 거라고\n하다못해 네모도 꿈을 꾸는데\n아무도 꿈이 없는 자에겐 기회를 주지 않아\n하긴 무슨 기회가 어울릴지도 모를 거야\n\n무시 말아 줘요 하고 싶은 게 없는걸\n왜 그렇게 봐 난 죄지은 게 아닌데\n\n난 차라리 흘러갈래\n모두 높은 곳을 우러러볼 때\n난 내 물결을 따라\nFlow flow along flow along my way\n\n난 차라리 꽉 눌러붙을래\n날 재촉한다면\n따뜻한 밥 위에 누워 자는\n계란 fry fry 같이\n\nSpread out\n틀에 갇힌 듯한 똑같은 꿈\nSpread out out\n난 이 두꺼운 껍질을 깨고 나와 퍼지고 싶어\n\n난 차라리 굴러갈래\n끝은 안 보여 뒤에선 등 떠미는데\n난 내 물결을 따라\nFlow flow along flow along my way\n\n난 차라리 꽉 눌러붙을래\n날 재촉한다면\n고민 하나 없이 퍼져 있는\n계란 fry fry 같이 나른하게\n\n#AKMU #악뮤 #LEECHANHYUK #이찬혁 #LEESUHYUN #이수현 #4thSINGLE #LoveLee #후라이의꿈 #FrysDream #LYRIC_VIDEO #OUTNOW #YG\n\nAvailable @ https://AKMU.lnk.to/LoveLee\n\nMore about AKMU @\nhttp://www.yg-akmu.com/\nhttp://www.youtube.com/@AKMU\nhttp://www.instagram.com/akmuofficial\nhttp://www.tiktok.com/@akmu\nhttps://www.facebook.com/officialAKMU\nhttp://twitter.com/ygent_official",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3kGAlp_PNUg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3kGAlp_PNUg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3kGAlp_PNUg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3kGAlp_PNUg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3kGAlp_PNUg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 48,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "3kGAlp_PNUg"
+          },
+          "videoOwnerChannelTitle": "AKMU",
+          "videoOwnerChannelId": "UCIcXK1CI8URMIqNO_1cehiQ"
+        },
+        "contentDetails": {
+          "videoId": "3kGAlp_PNUg",
+          "videoPublishedAt": "2023-08-21T09:00:02Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "Q44wcepxQcgN9cYBLJakWuhI6aU",
+        "id": "UEw0ZkdTSTFwREpuNmpYU19Udl9OOUI4WjBIVFJWSkUwbS43QzE2ODE3MzIzMENDNzQw",
+        "snippet": {
+          "publishedAt": "2024-07-15T10:11:46Z",
+          "channelId": "UCrKZcyOJVWnJ60zM1XWllNw",
+          "title": "ファタール / GEMN - Fatal / GEMN",
+          "description": "GEMN(中島健人・キタニタツヤ)  “ファタール”(Fatal)\nTVアニメ『【推しの子】』第2期オープニング主題歌\n\nStreaming / Download:  https://GEMN.lnk.to/FatalAY\nInst : https://youtu.be/KrbyrIJ8XH8\npiapro : https://piapro.jp/t/jiW9\n\n▼GEMN オフィシャルサイト▼\nURL : https://gemn-official.com/\n\n▼【推しの子】第2期ノンクレジットオープニング▼\nhttps://youtu.be/PAcf55v6zqQ\n\n::::::::::::::::::::::::::::::::::\n\n[Music Video]\nGEMN : Kento Nakajima, Tatsuya Kitani\n\nFilm by ETUI (INSTA : @etuicollective)\nDirector : wooje kim  (INSTA : @woojeda)\nProducer : Choi Min Kyoung\nAssistant Director : Kim Eunchong (INSTA : @2un.chong_2)\n\nChoreographer : ReiNa\n\nDOP : MICHAEL KIM  (INSTA : @michaelkimdp)\ncamera crew\n1st AC Hwanho Kim  (INSTA : @hi_ho9)\n2nd AC JoonYoung Lee  (INSTA : @jay_joonyoung)\n3rd AC Jeongha Lee  (INSTA : @oldmoon_film)\nDIT WonKyung CHOI  (INSTA : @wonkyungchoi_)\n\nGaffer : Park Byungju (INSTA : @b.think_light)\nlighting crew \nJeon jongwon\nJeong Woohyeong\nKim youngjae\nEun seungsoo\nHam jeongpyo\nLee kyungman\nChoi daehan\n\nGenerator Car\nSong hyeonggeun\n\nArt team\nMuSe (INSTA : @muse.art_official)\n\nArt director : Kim Minji & Jang Sejin\nAsst. Art director: Jeon Yujin\n\nart crew\nLee So Hyeon\nLee Hoon jae\nHeo June\nYu Ga Min\nSim Hyeon Jun\n\nJimmy Jib : Till UP\nOperator : Ji Yoongu (INSTA : @jiyungu0915)\n1st : Yoo Jinho\n2nd : Bae Euntaek\n\nVFX : Bglow YuNa Kim (INSTA : @bglow)\n\nAnimation : YeonYeoin (INSTA : @yeo1n)\n\nkid model : It's model (Insta : @itsmodels_international)\n\nDance team\nAgency: Coreo (Insta : @coreo.ent)\nChoreography Director : Yu Sukyoung (Insta : @howhyou_sukyung) \nDancer \nGhan Ju-yeon, Han Jeong-bin, Jeong Chae-rin, Kang Na-rin, Lee So-yoon, Yoo Min-woo, Bae Min-woo, Jeong In-ha, \nChoi Ga-eun, Lee Jin-hyung, Choi Ji-ye, Jeong Eui-heon, Kim Jeong-ju, Park Jung-hwi, Lee Dae-ho, Ryu Ji-soo, \nJoo Jeong-hyun, Yoon Tae-joon, Lim Bo-mi, Jeon Hye-jeong, Kim Joo-hyung\n\nHair & Make : Chie Ishizu (Kento Nakajima), Tatsuya Suzuki (Tatsuya Kitani)\nStylists : JIKI\nWardrobe : Mitsue Tamogami\n\n「ファタール」\nWords & Music : Tatsuya Kitani\nArrangement : Giga\nMix : Giga, Ayaka Toki\nMastering : Hidekazu Sakai (Sony Music Studios Tokyo)\n\nまた夢から覚める、濡れた瞼を開ける\n狂おしいほど思い残す、遠い日の無力さを呪う\n身を焼かれるような絶望も糧にはなろうか\n憧れに焦がれるまま燃やし続けている\n\nキラキラお星様宿したあなたのeyes\nカラカラ渇いて可哀想なlack of 愛？\n全てを孤独から救う眩しい光\n僕にだけ落ちる影はあなたのせい？\n\n致命的な欠落をくれたね\n身勝手な巨星、狂わされた生\n\nお願い、声を聞かせて、声を聞かせて\n絡まって歪んでしまった傷さえ\nくれたのはあなただけ、あなただけ\nお願い、僕を見ていて、僕を見ていて\n宿命に刻まれた痛みさえ武器にして\nいつかの後悔すら照らせるように\n\nあなたがいないと生きていけない\n何もかも捧げてしまってもいい\nあなたの愛がまだ足らない\n欠けたものは何で埋めたらいい？\n\n致命的、致命的、致命的な愛\n運命的、運命的、運命的なI\n必然的、必然的、必然的な哀\n僕を見ていてね、最愛のファタール！\n\nキラキラお星様宿したあなたのeyes\nカラカラ渇いて可哀想なlack of 愛？\n遥か彼方から放たれた美しさに\n灼かれた眼、もがれた羽根、創造的堕天\n\nあらゆる視界をジャック\nその輝きはエゴイスティック\n胸の奥仕舞った感情さえ\n引っ張り出して昇華して\n僕という運命を全部抱きしめていく\n\nあなたがいないと生きていけない\n眩しさでこの身を照らして欲しい\nあなたの愛がまだ足らない\n夢の中でもらうしかないのに\n\n致命的、致命的、致命的な愛\n運命的、運命的、運命的なI\n必然的、必然的、必然的な哀\n誰のものでもない、最愛のファタール！\n\n何度悔やんだだろう\n何度呪っただろう\nどれほどの幸福を注いだとしても\n満たされることのない器\n何度夢見ただろう\n何度願っただろう\n僕の胸で膿み続けている傷を撫でる手を\n\nこの舞台で足掻くことをやめない\nただ一つのアイに近づきたい\n固く定まったこの宿命\nあの星の光からこぼれた闇\n\nあなたがいないと生きていけない\n何もかも捧げてしまってもいい\nあなたの愛がまだ足らない\n欠けたものは何で埋めたらいい？\n\n致命的、致命的、致命的な愛\n運命的、運命的、運命的なI\n必然的、必然的、必然的な哀\n僕を見ていてね、最愛のファタール！\n\n最愛のファタール",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8tQiWHXSGN0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8tQiWHXSGN0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8tQiWHXSGN0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8tQiWHXSGN0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8tQiWHXSGN0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouTube Music Global Charts",
+          "playlistId": "PL4fGSI1pDJn6jXS_Tv_N9B8Z0HTRVJE0m",
+          "position": 49,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "8tQiWHXSGN0"
+          },
+          "videoOwnerChannelTitle": "キタニタツヤ / Tatsuya Kitani",
+          "videoOwnerChannelId": "UCgP3GbgbuVzAhlctGU5yuPA"
+        },
+        "contentDetails": {
+          "videoId": "8tQiWHXSGN0",
+          "videoPublishedAt": "2024-07-05T13:00:07Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 100,
+      "resultsPerPage": 50
+    }
+  }
+  
