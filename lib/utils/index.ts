@@ -47,3 +47,15 @@ export function splitTextAndUrls(text: string): TextPart[] {
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
+
+export function formatKoreaDateTime(date: Date | string) {
+  return new Date(date).toLocaleString("ko-KR", {
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+    second: "numeric",
+  });
+}
