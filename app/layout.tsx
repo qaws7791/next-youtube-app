@@ -73,10 +73,10 @@ export default function RootLayout({
         <body
           className={
             (inter.className,
-            "bg-yellow-500 text-neutral-50 min-h-screen h-full flex flex-col ")
+            "bg-gradient-to-b from-yellow-500 to-amber-500 text-neutral-50 min-h-screen h-full flex flex-col ")
           }
         >
-          <div className="p-4 flex-1">{children}</div>
+          <div className="py-4 md:p-4 flex-1">{children}</div>
           <Footer />
         </body>
       </html>
