@@ -1,5 +1,5 @@
 "use client";
-import { cn, splitTextAndUrls } from "@/lib/utils";
+import { cn, formatKoreaDateTime, splitTextAndUrls } from "@/lib/utils";
 import { useState } from "react";
 
 function parseDescription(description: string) {
@@ -8,10 +8,19 @@ function parseDescription(description: string) {
   });
 }
 
-export default function Description({ description }: { description: string }) {
+export default function Details({
+  description,
+  publishedAt,
+}: {
+  description: string;
+  publishedAt: string;
+}) {
   const [open, setOpen] = useState(false);
   return (
     <div className={cn("mt-4 p-4 bg-neutral-900 rounded-2xl overflow-auto")}>
+      <p className="text-sm text-neutral-500 font-semibold">
+        {formatKoreaDateTime(publishedAt)}
+      </p>
       <div className={cn(open ? "line-clamp-none" : "line-clamp-2")}>
         {parseDescription(description).map((line, index) => (
           <p key={index}>
