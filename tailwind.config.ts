@@ -7,6 +7,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ["var(--font-sb)"],
+      },
       borderRadius: {
         "4xl": "2rem",
         "5xl": "2.5rem",

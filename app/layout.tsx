@@ -1,11 +1,10 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
 import "@/styles/globals.css";
 import siteConfig from "@/config/site-config";
 import Providers from "@/components/providers";
 import { fetchYouTubePlaylist } from "@/lib/google/youtube";
 import Footer from "@/components/footer";
-const inter = Inter({ subsets: ["latin"] });
+import localFont from "next/font/local";
 
 export async function generateMetadata(): Promise<Metadata> {
   const playlist = await fetchYouTubePlaylist(process.env.YOUTUBE_PLAYLIST_ID!);
@@ -62,6 +61,28 @@ export async function generateMetadata(): Promise<Metadata> {
   };
 }
 
+const SBFont = localFont({
+  display: "swap",
+  variable: "--font-sb",
+  src: [
+    {
+      path: "./fonts/SBAggroLight.woff2",
+      weight: "300",
+      style: "normal",
+    },
+    {
+      path: "./fonts/SBAggroMedium.woff2",
+      weight: "500",
+      style: "normal",
+    },
+    {
+      path: "./fonts/SBAggroBold.woff2",
+      weight: "700",
+      style: "normal",
+    },
+  ],
+});
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -69,11 +90,10 @@ export default function RootLayout({
 }>) {
   return (
     <Providers>
-      <html lang="ko" className="dark">
+      <html lang="ko" className={SBFont.variable}>
         <body
           className={
-            (inter.className,
-            "bg-gradient-to-b from-yellow-500 to-amber-500 text-neutral-50 min-h-screen h-full flex flex-col ")
+            "bg-gradient-to-b from-yellow-500 to-amber-500 text-neutral-50 min-h-screen h-full flex flex-col"
           }
         >
           <div className="py-4 md:p-4 flex-1">{children}</div>
