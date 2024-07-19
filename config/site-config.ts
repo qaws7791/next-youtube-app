@@ -2,24 +2,27 @@ import { Metadata } from "next";
 
 type SiteConfig = Readonly<{
   title: string;
+  titleDefault?: string;
   description: string;
+  email?: string;
 }> &
   Metadata;
 
 const siteConfig: SiteConfig = {
-  title: "YouTube K-POP Top 100",
-  description:
-    "YouTube에서 이번 주 가장 인기 있는 K-POP 뮤직 비디오를 확인하세요.",
-  publisher: "qaws7791",
-  keywords: ["YouTube", "K-POP", "Music", "Video"],
-  authors: [{ name: "qaws7791", url: "https://github.com/qaws7791" }],
-  creator: "qaws7791",
+  title: "졔모니아",
+  titleDefault: "졔모니아 - 이지혜의 노래와 영상",
+  description: "뮤지컬 배우 이지혜의 노래와 영상을 감상하세요.",
+  publisher: "jjaemonia",
+  keywords: ["졔모니아", "지혜", "뮤지컬", "오페라", "음악"],
+  authors: [{ name: "jjaemonia", url: "jjaemonia.pages.dev" }],
+  creator: "jjaemonia",
   formatDetection: {
-    email: false,
+    email: true,
     address: false,
     telephone: false,
   },
   category: "Entertainment",
+  email: "jjaemonia@gmail.com",
 } as const;
 
 export default siteConfig;
