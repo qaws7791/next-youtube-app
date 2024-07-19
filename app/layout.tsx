@@ -17,7 +17,7 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     title: {
       template: `%s | ${title}`,
-      default: title,
+      default: siteConfig.titleDefault || title,
     },
     description,
     generator: "Next.js",
