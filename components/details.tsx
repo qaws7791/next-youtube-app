@@ -34,7 +34,7 @@ export default function Details({
                     href={part.text}
                     target="_blank"
                     rel="noreferrer"
-                    className="text-yellow-600 font-semibold underline"
+                    className="text-yellow-600 font-semibold hover:underline"
                   >
                     {part.text}
                   </a>
