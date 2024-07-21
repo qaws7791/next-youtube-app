@@ -5,6 +5,7 @@ import Providers from "@/components/providers";
 import { fetchYouTubePlaylist } from "@/lib/google/youtube";
 import Footer from "@/components/footer";
 import localFont from "next/font/local";
+import Header from "@/components/header";
 
 export async function generateMetadata(): Promise<Metadata> {
   const playlist = await fetchYouTubePlaylist(process.env.YOUTUBE_PLAYLIST_ID!);
@@ -96,6 +97,7 @@ export default function RootLayout({
             "bg-gradient-to-b from-yellow-500 to-amber-500 text-neutral-50 min-h-screen h-full flex flex-col"
           }
         >
+          <Header />
           <div className="py-4 md:p-4 flex-1">{children}</div>
           <Footer />
         </body>
