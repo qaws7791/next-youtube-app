@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="flex gap-4 p-4 pb-0 justify-between">
+    <header className="flex gap-4 p-4 pb-0 justify-between max-w-screen-2xl w-full mx-auto">
       <a
         href="https://www.instagram.com/jjae_emma"
         target="_blank"
