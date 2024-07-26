@@ -15,6 +15,9 @@ const config: Config = {
         "5xl": "2.5rem",
         "6xl": "3rem",
       },
+      maxWidth: {
+        "screen-2xl": "1440px",
+      },
       keyframes: {
         fadeOut: {
           "0%": { opacity: "1" },
@@ -25,6 +28,11 @@ const config: Config = {
       animation: {
         fadeOut: "fadeOut 1500ms ease-in-out",
       },
+    },
+    fontWeight: {
+      light: "300",
+      medium: "500",
+      bold: "700",
     },
   },
   plugins: [],
