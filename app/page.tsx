@@ -1,13 +1,18 @@
 import HeroSection from "@/app/hero-section";
-import VideosList from "@/components/videos-list";
-import { fetchAllItemsOfPlaylist } from "@/lib/google/youtube";
+import Playlists from "@/components/playlists";
+import { fetchYoutubePlaylists } from "@/lib/google/youtube";
+import { Suspense } from "react";
 
 export default async function Home() {
-  const data = await fetchAllItemsOfPlaylist(process.env.YOUTUBE_PLAYLIST_ID!);
+  const playlists = await fetchYoutubePlaylists(
+    process.env.YOUTUBE_PLAYLIST_IDS!.split(",").filter(Boolean)
+  );
   return (
-    <main className="max-w-screen-xl bg-neutral-950 mx-auto rounded-3xl sm:rounded-6xl transition-all p-4 md:p-8">
+    <main className="max-w-screen-2xl bg-neutral-950 mx-auto rounded-3xl sm:rounded-6xl transition-all p-4 md:p-8">
       <HeroSection />
-      <VideosList videos={data.items} />
+      <Suspense fallback={<p>Loading...</p>}>
+        <Playlists playlists={playlists} />
+      </Suspense>
     </main>
   );
 }
