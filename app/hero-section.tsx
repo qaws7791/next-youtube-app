@@ -14,7 +14,7 @@ export default function HeroSection() {
         {siteConfig.title}
       </motion.h1>
       <motion.p
-        className="text-xl font-semibold text-center"
+        className="text-xl font-bold text-center"
         initial={{ y: 30, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.2, ease: "easeInOut" }}
