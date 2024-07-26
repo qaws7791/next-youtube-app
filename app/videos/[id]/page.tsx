@@ -1,8 +1,7 @@
-import placeholder from "@/lib/placeholder/playlistitems.json";
 import Image from "next/image";
 import { Metadata } from "next";
 import BackButton from "@/components/back-button";
-import { fetchAllItemsOfPlaylist, fetchVideo } from "@/lib/google/youtube";
+import { fetchVideo, fetchYoutubePlaylists } from "@/lib/google/youtube";
 import Details from "@/components/details";
 
 interface Props {
@@ -10,13 +9,15 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  const { items } = await fetchAllItemsOfPlaylist(
-    process.env.YOUTUBE_PLAYLIST_ID!
+  const playlists = await fetchYoutubePlaylists(
+    process.env.YOUTUBE_PLAYLIST_IDS!.split(",").filter(Boolean)
   );
 
-  return items.map((item) => ({
-    id: item.snippet?.resourceId?.videoId,
-  }));
+  return playlists
+    .flatMap((playlist) => playlist.items)
+    .map((item) => ({
+      id: item.snippet?.resourceId?.videoId,
+    }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -35,15 +36,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function VideoPage({ params: { id } }: Props) {
   const video = await fetchVideo(id);
 
-  if (!video || !video.snippet?.thumbnails?.maxres) {
-    return <h1>Video not found</h1>;
+  if (!video || !video.snippet) {
+    return <h1>Video(Id:{id}) not found</h1>;
   }
-  const thumbnail = video.snippet.thumbnails.maxres.url!;
-  const thumbnailWidth = video.snippet.thumbnails.maxres.width!;
-  const thumbnailHeight = video.snippet.thumbnails.maxres.height!;
+  const thumbnail =
+    video.snippet.thumbnails?.maxres ||
+    video.snippet.thumbnails?.standard ||
+    video.snippet.thumbnails?.high ||
+    video.snippet.thumbnails?.medium ||
+    video.snippet.thumbnails?.default;
+  const thumbnailWidth = thumbnail?.width;
+  const thumbnailHeight = thumbnail?.height;
 
-  if (!video) {
-    return <h1>Video not found</h1>;
+  if (!thumbnailWidth || !thumbnailHeight) {
+    return <h1>Video(Id:{id}) not found</h1>;
   }
 
   return (
@@ -53,8 +59,8 @@ export default async function VideoPage({ params: { id } }: Props) {
         <h1 className="text-2xl sm:text-4xl font-bold my-8" id="video-title">
           {video.snippet.title}
         </h1>
-        <p className="text-lg sm:text-xl font-semibold" id="video-channel">
-          {video.snippet.channelTitle}
+        <p className="text-lg sm:text-xl font-medium" id="video-channel">
+          by {video.snippet.channelTitle}
         </p>
       </div>
 
@@ -66,7 +72,7 @@ export default async function VideoPage({ params: { id } }: Props) {
         ></iframe>
         <Image
           id="thumbnail"
-          src={thumbnail}
+          src={thumbnail?.url!}
           alt={video.snippet.title!}
           width={thumbnailWidth}
           height={thumbnailHeight}
@@ -79,10 +85,7 @@ export default async function VideoPage({ params: { id } }: Props) {
       </div>
 
       <div className="p-4 sm:p-8">
-        <h2
-          className="text-xl sm:text-2xl font-semibold"
-          id="video-description"
-        >
+        <h2 className="text-xl sm:text-2xl font-medium" id="video-description">
           Description
         </h2>
         <Details
@@ -92,7 +95,7 @@ export default async function VideoPage({ params: { id } }: Props) {
       </div>
 
       <div className="px-4 pb-4 sm:px-8 sm:pb-8">
-        <h2 className="text-xl sm:text-2xl font-semibold" id="video-tags">
+        <h2 className="text-xl sm:text-2xl font-medium" id="video-tags">
           Tags
         </h2>
         <div className="mt-4">
