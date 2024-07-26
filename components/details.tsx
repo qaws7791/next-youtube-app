@@ -18,7 +18,7 @@ export default function Details({
   const [open, setOpen] = useState(false);
   return (
     <div className={cn("mt-4 p-4 bg-neutral-900 rounded-2xl overflow-auto")}>
-      <p className="text-sm text-neutral-500 font-semibold">
+      <p className="text-sm text-neutral-500 font-medium">
         {formatKoreaDateTime(publishedAt)}
       </p>
       <div className={cn(open ? "line-clamp-none" : "line-clamp-2")}>
@@ -34,7 +34,7 @@ export default function Details({
                     href={part.text}
                     target="_blank"
                     rel="noreferrer"
-                    className="text-yellow-600 font-semibold hover:underline"
+                    className="text-yellow-600 font-medium hover:underline"
                   >
                     {part.text}
                   </a>
@@ -45,7 +45,7 @@ export default function Details({
         ))}
       </div>
       <button
-        className="text-yellow-600 font-semibold"
+        className="text-yellow-600 font-medium"
         onClick={() => setOpen(!open)}
         aria-label="Toggle description"
         title="Toggle description"
