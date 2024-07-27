@@ -33,7 +33,7 @@ export const fetchAllItemsOfPlaylist = async (playlistId: string) => {
   };
 };
 
-export const fetchVideo = async (videoId: string) => {
+export const fetchYoutubeVideo = async (videoId: string) => {
   const res = await youtube.videos.list({
     id: [videoId],
     part: ["contentDetails", "id", "snippet", "status"],

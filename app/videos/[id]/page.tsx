@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Metadata } from "next";
 import BackButton from "@/components/back-button";
-import { fetchVideo, fetchYoutubePlaylists } from "@/lib/google/youtube";
+import { fetchYoutubeVideo, fetchYoutubePlaylists } from "@/lib/google/youtube";
 import Details from "@/components/details";
 
 interface Props {
@@ -21,7 +21,7 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const video = await fetchVideo(params.id);
+  const video = await fetchYoutubeVideo(params.id);
   if (!video) {
     return {
       title: "Video not found",
@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function VideoPage({ params: { id } }: Props) {
-  const video = await fetchVideo(id);
+  const video = await fetchYoutubeVideo(id);
 
   if (!video || !video.snippet) {
     return <h1>Video(Id:{id}) not found</h1>;
