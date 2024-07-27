@@ -2,19 +2,32 @@ import type { Metadata } from "next";
 import "@/styles/globals.css";
 import siteConfig from "@/config/site-config";
 import Providers from "@/components/providers";
-import { fetchYouTubePlaylist } from "@/lib/google/youtube";
+import { fetchYoutubePlaylists } from "@/lib/google/youtube";
 import Footer from "@/components/footer";
 import localFont from "next/font/local";
 import Header from "@/components/header";
 
 export async function generateMetadata(): Promise<Metadata> {
-  const playlist = await fetchYouTubePlaylist(process.env.YOUTUBE_PLAYLIST_ID!);
-  const title =
-    siteConfig.title ||
-    playlist.items?.[0].snippet?.title ||
-    "YouTube Playlist App";
-  const description =
-    siteConfig.description || playlist.items?.[0].snippet?.description || "";
+  const playlists = await fetchYoutubePlaylists(
+    process.env.YOUTUBE_PLAYLIST_IDS!.split(",").filter(Boolean)
+  );
+
+  const recentlyUpdatedVideo = playlists
+    .flatMap((playlist) => playlist.items)
+    .sort((a, b) => {
+      const aDate = new Date(a.snippet?.publishedAt!);
+      const bDate = new Date(b.snippet?.publishedAt!);
+      return bDate.getTime() - aDate.getTime();
+    })[0];
+
+  const thumbnail =
+    recentlyUpdatedVideo.snippet?.thumbnails?.maxres ||
+    recentlyUpdatedVideo.snippet?.thumbnails?.high ||
+    recentlyUpdatedVideo.snippet?.thumbnails?.medium ||
+    recentlyUpdatedVideo.snippet?.thumbnails?.default;
+
+  const title = siteConfig.title || "YouTube Playlist App";
+  const description = siteConfig.description || "";
   return {
     title: {
       template: `%s | ${title}`,
@@ -38,9 +51,9 @@ export async function generateMetadata(): Promise<Metadata> {
       description,
       images: [
         {
-          url: playlist.items?.[0].snippet?.thumbnails?.maxres?.url!,
-          width: playlist.items?.[0].snippet?.thumbnails?.maxres?.width!,
-          height: playlist.items?.[0].snippet?.thumbnails?.maxres?.height!,
+          url: thumbnail?.url!,
+          width: thumbnail?.width!,
+          height: thumbnail?.height!,
           alt: title,
         },
       ],
@@ -52,9 +65,9 @@ export async function generateMetadata(): Promise<Metadata> {
       creator: "@" + siteConfig.creator,
       images: [
         {
-          url: playlist.items?.[0].snippet?.thumbnails?.maxres?.url!,
-          width: playlist.items?.[0].snippet?.thumbnails?.maxres?.width!,
-          height: playlist.items?.[0].snippet?.thumbnails?.maxres?.height!,
+          url: thumbnail?.url!,
+          width: thumbnail?.width!,
+          height: thumbnail?.height!,
           alt: title,
         },
       ],
