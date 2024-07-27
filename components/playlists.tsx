@@ -1,9 +1,9 @@
 "use client";
 import Fuse from "fuse.js";
 import Image from "next/image";
-import { useMemo, useRef, useState } from "react";
+import { useMemo, useState } from "react";
 import Link from "next/link";
-import { Playlist, PlaylistWithItems } from "@/lib/google/types";
+import { PlaylistWithItems } from "@/lib/google/types";
 import { cn } from "@/lib/utils";
 import { useSearchParams } from "next/navigation";
 
@@ -12,23 +12,12 @@ export default function Playlists({
 }: {
   playlists: PlaylistWithItems[];
 }) {
-  // const videos = playlists.flatMap((playlist) => playlist.items);
   const searchParams = useSearchParams();
   const [search, setSearch] = useState("");
-  // const fuseRef = useRef(
-  //   new Fuse(videos, {
-  //     keys: ["snippet.title"],
-  //     includeScore: true,
-  //   })
-  // );
-
-  // const items = useMemo(
-  //   () =>
-  //     search
-  //       ? fuseRef.current.search(search).map((result) => result.item)
-  //       : videos,
-  //   [search, videos]
-  // );
+  const allVideos = useMemo(
+    () => playlists.flatMap((playlist) => playlist.items),
+    [playlists]
+  );
 
   const selectedPlaylistId = useMemo(() => {
     const playlistId = searchParams.get("playlistId");
@@ -36,15 +25,24 @@ export default function Playlists({
     return playlists.find((playlist) => playlist.id === playlistId)?.id;
   }, [searchParams, playlists]);
 
+  const fuse = useMemo(() => {
+    const data = selectedPlaylistId
+      ? playlists.find((playlist) => playlist.id === selectedPlaylistId)
+          ?.items || allVideos
+      : allVideos;
+
+    return new Fuse(data, {
+      keys: ["snippet.title"],
+    });
+  }, [selectedPlaylistId, allVideos, playlists]);
+
   const visibleItems = useMemo(() => {
-    const allItems = playlists.flatMap((playlist) => playlist.items);
-    if (!selectedPlaylistId) return allItems;
-    console.log("selectedPlaylistId", selectedPlaylistId);
-    return (
-      playlists.find((playlist) => playlist.id === selectedPlaylistId)?.items ||
-      allItems
+    if (search) return fuse.search(search).map((result) => result.item);
+    const selectedPlaylist = playlists.find(
+      (playlist) => playlist.id === selectedPlaylistId
     );
-  }, [selectedPlaylistId, playlists]);
+    return selectedPlaylist?.items || allVideos;
+  }, [search, fuse, selectedPlaylistId, allVideos, playlists]);
 
   return (
     <>
@@ -96,45 +94,57 @@ export default function Playlists({
         })}
       </div>
       {/* playlist items */}
-      <ul className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 mt-20 min-h-[30vh] gap-4 md:gap-8">
-        {visibleItems.map((item) => {
-          const alt = item.snippet?.title;
-          const videoId = item.snippet?.resourceId?.videoId;
-          const thumbnail =
-            item.snippet?.thumbnails?.maxres ||
-            item.snippet?.thumbnails?.high ||
-            item.snippet?.thumbnails?.medium ||
-            item.snippet?.thumbnails?.default;
-          const src = thumbnail?.url;
-          const width = thumbnail?.width;
-          const height = thumbnail?.height;
-          if (!src || !alt || !width || !height || !videoId) return null;
-          return (
-            <Link
-              key={videoId}
-              href={`/videos/${videoId}`}
-              className="relative group rounded-3xl overflow-hidden"
-            >
-              <Image
-                src={src}
-                alt={alt}
-                width={width}
-                height={height}
-                className="rounded-3xl w-full object-cover aspect-video"
-                style={{
-                  contain: "layout",
-                  viewTransitionName: "photo-" + videoId,
-                }}
-              />
-              <div className="opacity-0 group-hover:opacity-100 group-focus-visible:opacity-100 backdrop-blur-sm absolute bottom-0 left-0 right-0 top-0 transition-all bg-transparent group-hover:bg-black/50 group-focus-visible:bg-black/50 p-4">
-                <h2 className="text-neutral-100 text-xl font-medium md:text-2xl lg:5xl line-clamp-4">
-                  {item.snippet?.title}
-                </h2>
-              </div>
-            </Link>
-          );
-        })}
-      </ul>
+      <div className="mt-20 min-h-[30vh]">
+        {visibleItems.length === 0 ? (
+          search ? (
+            <p className="text-center text-neutral-100">
+              &apos;{search}&apos;에 대한 검색 결과가 없습니다.
+            </p>
+          ) : (
+            <p className="text-center text-neutral-100">동영상이 없습니다.</p>
+          )
+        ) : (
+          <ul className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3  gap-4 md:gap-8">
+            {visibleItems.map((item) => {
+              const alt = item.snippet?.title;
+              const videoId = item.snippet?.resourceId?.videoId;
+              const thumbnail =
+                item.snippet?.thumbnails?.maxres ||
+                item.snippet?.thumbnails?.high ||
+                item.snippet?.thumbnails?.medium ||
+                item.snippet?.thumbnails?.default;
+              const src = thumbnail?.url;
+              const width = thumbnail?.width;
+              const height = thumbnail?.height;
+              if (!src || !alt || !width || !height || !videoId) return null;
+              return (
+                <Link
+                  key={videoId}
+                  href={`/videos/${videoId}`}
+                  className="relative group rounded-3xl overflow-hidden"
+                >
+                  <Image
+                    src={src}
+                    alt={alt}
+                    width={width}
+                    height={height}
+                    className="rounded-3xl w-full object-cover aspect-video"
+                    style={{
+                      contain: "layout",
+                      viewTransitionName: "photo-" + videoId,
+                    }}
+                  />
+                  <div className="opacity-0 group-hover:opacity-100 group-focus-visible:opacity-100 backdrop-blur-sm absolute bottom-0 left-0 right-0 top-0 transition-all bg-transparent group-hover:bg-black/50 group-focus-visible:bg-black/50 p-4">
+                    <h2 className="text-neutral-100 text-xl font-medium md:text-2xl lg:5xl line-clamp-4">
+                      {item.snippet?.title}
+                    </h2>
+                  </div>
+                </Link>
+              );
+            })}
+          </ul>
+        )}
+      </div>
     </>
   );
 }
@@ -150,6 +160,7 @@ export function PlaylistTab({
 }) {
   return (
     <Link
+      prefetch={false}
       href={`/?playlistId=${playlistId}`}
       className={cn(
         "px-4 py-3 rounded-3xl transition-all",
