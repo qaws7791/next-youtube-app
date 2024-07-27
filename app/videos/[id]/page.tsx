@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import BackButton from "@/components/back-button";
 import { fetchYoutubeVideo, fetchYoutubePlaylists } from "@/lib/google/youtube";
 import Details from "@/components/details";
+import Link from "next/link";
 
 interface Props {
   params: { id: string };
@@ -100,7 +101,7 @@ export default async function VideoPage({ params: { id } }: Props) {
         </h2>
         <div className="mt-4">
           {video.snippet.tags?.map((tag, index) => (
-            <a
+            <Link
               key={index}
               className="inline-block m-1 font-bold px-3 py-1 border border-neutral-600 rounded-lg hover:bg-neutral-50/10 focus:bg-neutral-600/10"
               href={`https://www.youtube.com/results?search_query=${tag}`}
@@ -109,7 +110,7 @@ export default async function VideoPage({ params: { id } }: Props) {
               aria-label={`Search ${tag}`}
             >
               #{tag}
-            </a>
+            </Link>
           ))}
         </div>
       </div>
